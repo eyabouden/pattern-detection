@@ -1,0 +1,402 @@
+[
+  {
+    "employee_id": "H2023000",
+    "role": "Consultant",
+    "department": "Digital",
+    "age": 57,
+    "years_at_company": 20,
+    "billable_hours": 1717,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023001",
+    "role": "Partner",
+    "department": "Operations",
+    "age": 49,
+    "years_at_company": 6,
+    "billable_hours": 2166,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023002",
+    "role": "Senior Consultant",
+    "department": "Digital",
+    "age": 60,
+    "years_at_company": 18,
+    "billable_hours": 1468,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023003",
+    "role": "Senior Consultant",
+    "department": "Delivery",
+    "age": 56,
+    "years_at_company": 4,
+    "billable_hours": 1073,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023004",
+    "role": "Senior Consultant",
+    "department": "Consulting",
+    "age": 47,
+    "years_at_company": 17,
+    "billable_hours": 1083,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023005",
+    "role": "Manager",
+    "department": "Operations",
+    "age": 44,
+    "years_at_company": 0,
+    "billable_hours": 871,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023006",
+    "role": "Cloud Architect",
+    "department": "Technology",
+    "age": 31,
+    "years_at_company": 20,
+    "billable_hours": 1193,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023007",
+    "role": "Business Analyst",
+    "department": "Digital",
+    "age": 60,
+    "years_at_company": 4,
+    "billable_hours": 1175,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023008",
+    "role": "Data Scientist",
+    "department": "Digital",
+    "age": 33,
+    "years_at_company": 2,
+    "billable_hours": 1507,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023009",
+    "role": "Project Manager",
+    "department": "Consulting",
+    "age": 39,
+    "years_at_company": 16,
+    "billable_hours": 988,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023010",
+    "role": "Senior Consultant",
+    "department": "Technology",
+    "age": 33,
+    "years_at_company": 0,
+    "billable_hours": 1435,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023011",
+    "role": "Project Manager",
+    "department": "Delivery",
+    "age": 25,
+    "years_at_company": 20,
+    "billable_hours": 1973,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023012",
+    "role": "Data Scientist",
+    "department": "Operations",
+    "age": 36,
+    "years_at_company": 14,
+    "billable_hours": 1686,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023013",
+    "role": "Manager",
+    "department": "Digital",
+    "age": 52,
+    "years_at_company": 8,
+    "billable_hours": 1107,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023014",
+    "role": "Project Manager",
+    "department": "Digital",
+    "age": 27,
+    "years_at_company": 18,
+    "billable_hours": 1776,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023015",
+    "role": "Project Manager",
+    "department": "Operations",
+    "age": 43,
+    "years_at_company": 19,
+    "billable_hours": 1346,
+    "performance_score": 8,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023016",
+    "role": "Business Analyst",
+    "department": "Consulting",
+    "age": 44,
+    "years_at_company": 15,
+    "billable_hours": 1325,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023017",
+    "role": "Partner",
+    "department": "Digital",
+    "age": 48,
+    "years_at_company": 6,
+    "billable_hours": 1783,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023018",
+    "role": "Project Manager",
+    "department": "Operations",
+    "age": 50,
+    "years_at_company": 12,
+    "billable_hours": 1772,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023019",
+    "role": "Senior Manager",
+    "department": "Technology",
+    "age": 54,
+    "years_at_company": 5,
+    "billable_hours": 1577,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023020",
+    "role": "Consultant",
+    "department": "Digital",
+    "age": 24,
+    "years_at_company": 12,
+    "billable_hours": 1449,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023021",
+    "role": "Partner",
+    "department": "Technology",
+    "age": 26,
+    "years_at_company": 7,
+    "billable_hours": 1005,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023022",
+    "role": "Project Manager",
+    "department": "Technology",
+    "age": 48,
+    "years_at_company": 2,
+    "billable_hours": 872,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023023",
+    "role": "Director",
+    "department": "Operations",
+    "age": 39,
+    "years_at_company": 7,
+    "billable_hours": 2154,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023024",
+    "role": "Senior Manager",
+    "department": "Operations",
+    "age": 32,
+    "years_at_company": 1,
+    "billable_hours": 812,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023025",
+    "role": "Project Manager",
+    "department": "Delivery",
+    "age": 59,
+    "years_at_company": 18,
+    "billable_hours": 1329,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023026",
+    "role": "Business Analyst",
+    "department": "Delivery",
+    "age": 25,
+    "years_at_company": 2,
+    "billable_hours": 1763,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023027",
+    "role": "Partner",
+    "department": "Technology",
+    "age": 37,
+    "years_at_company": 4,
+    "billable_hours": 1271,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023028",
+    "role": "Senior Consultant",
+    "department": "Operations",
+    "age": 49,
+    "years_at_company": 2,
+    "billable_hours": 1070,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023029",
+    "role": "Consultant",
+    "department": "Delivery",
+    "age": 51,
+    "years_at_company": 9,
+    "billable_hours": 1307,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023030",
+    "role": "Business Analyst",
+    "department": "Consulting",
+    "age": 44,
+    "years_at_company": 5,
+    "billable_hours": 1067,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023031",
+    "role": "Data Scientist",
+    "department": "Consulting",
+    "age": 54,
+    "years_at_company": 8,
+    "billable_hours": 957,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023032",
+    "role": "Senior Manager",
+    "department": "Consulting",
+    "age": 53,
+    "years_at_company": 5,
+    "billable_hours": 1262,
+    "performance_score": 6,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023033",
+    "role": "Senior Manager",
+    "department": "Delivery",
+    "age": 46,
+    "years_at_company": 9,
+    "billable_hours": 1563,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023034",
+    "role": "Project Manager",
+    "department": "Digital",
+    "age": 36,
+    "years_at_company": 17,
+    "billable_hours": 1751,
+    "performance_score": 7,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023035",
+    "role": "Project Manager",
+    "department": "Digital",
+    "age": 58,
+    "years_at_company": 5,
+    "billable_hours": 1267,
+    "performance_score": 9,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023036",
+    "role": "Partner",
+    "department": "Consulting",
+    "age": 55,
+    "years_at_company": 19,
+    "billable_hours": 2086,
+    "performance_score": 10,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023037",
+    "role": "Project Manager",
+    "department": "Delivery",
+    "age": 37,
+    "years_at_company": 18,
+    "billable_hours": 2112,
+    "performance_score": 8,
+    "left_company": false
+  },
+  {
+    "employee_id": "H2023038",
+    "role": "Project Manager",
+    "department": "Delivery",
+    "age": 28,
+    "years_at_company": 9,
+    "billable_hours": 1044,
+    "performance_score": 8,
+    "left_company": true
+  },
+  {
+    "employee_id": "H2023039",
+    "role": "Project Manager",
+    "department": "Operations",
+    "age": 42,
+    "years_at_company": 4,
+    "billable_hours": 1592,
+    "performance_score": 9,
+    "left_company": false
+  }
+]

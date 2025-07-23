@@ -1,0 +1,122 @@
+[
+  {
+    "month": 1,
+    "year": 2021,
+    "client": "Veolia",
+    "revenue": 650170.17,
+    "expenses": 1068708.14,
+    "billable_hours": 6180,
+    "project_margin": 0.24,
+    "profit": -418537.97
+  },
+  {
+    "month": 2,
+    "year": 2021,
+    "client": "La Poste",
+    "revenue": 1540263.21,
+    "expenses": 338147.91,
+    "billable_hours": 596,
+    "project_margin": 0.39,
+    "profit": 1202115.3
+  },
+  {
+    "month": 3,
+    "year": 2021,
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "revenue": 1390782.97,
+    "expenses": 689048.46,
+    "billable_hours": 1706,
+    "project_margin": 0.45,
+    "profit": 701734.51
+  },
+  {
+    "month": 4,
+    "year": 2021,
+    "client": "L'Or\u00e9al",
+    "revenue": 1824667.0,
+    "expenses": 116273.98,
+    "billable_hours": 7799,
+    "project_margin": 0.4,
+    "profit": 1708393.02
+  },
+  {
+    "month": 5,
+    "year": 2021,
+    "client": "SNCF",
+    "revenue": 431308.81,
+    "expenses": 164882.77,
+    "billable_hours": 1359,
+    "project_margin": 0.41,
+    "profit": 266426.04
+  },
+  {
+    "month": 6,
+    "year": 2021,
+    "client": "Airbus",
+    "revenue": 788042.84,
+    "expenses": 336220.94,
+    "billable_hours": 3582,
+    "project_margin": 0.42,
+    "profit": 451821.9
+  },
+  {
+    "month": 7,
+    "year": 2021,
+    "client": "Renault",
+    "revenue": 248168.05,
+    "expenses": 735005.58,
+    "billable_hours": 6913,
+    "project_margin": 0.32,
+    "profit": -486837.53
+  },
+  {
+    "month": 8,
+    "year": 2021,
+    "client": "BNP Paribas",
+    "revenue": 236238.36,
+    "expenses": 618594.43,
+    "billable_hours": 7192,
+    "project_margin": 0.36,
+    "profit": -382356.07
+  },
+  {
+    "month": 9,
+    "year": 2021,
+    "client": "Sanofi",
+    "revenue": 1527767.0,
+    "expenses": 1232370.07,
+    "billable_hours": 5825,
+    "project_margin": 0.43,
+    "profit": 295396.93
+  },
+  {
+    "month": 10,
+    "year": 2021,
+    "client": "AXA",
+    "revenue": 805963.84,
+    "expenses": 1437132.24,
+    "billable_hours": 6331,
+    "project_margin": 0.24,
+    "profit": -631168.4
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "client": "TotalEnergies",
+    "revenue": 1112592.82,
+    "expenses": 1169383.73,
+    "billable_hours": 4726,
+    "project_margin": 0.17,
+    "profit": -56790.91
+  },
+  {
+    "month": 12,
+    "year": 2021,
+    "client": "BNP Paribas",
+    "revenue": 1835544.06,
+    "expenses": 1201638.76,
+    "billable_hours": 1337,
+    "project_margin": 0.14,
+    "profit": 633905.3
+  }
+]

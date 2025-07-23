@@ -1,0 +1,302 @@
+[
+  {
+    "client_id": "C2023000",
+    "client_name": "Airbus",
+    "industry": "Insurance",
+    "project_type": "IT Outsourcing",
+    "project_value": 1662988.83,
+    "billable_hours": 3209,
+    "satisfaction": 8,
+    "churned": false
+  },
+  {
+    "client_id": "C2023001",
+    "client_name": "Carrefour",
+    "industry": "Transport",
+    "project_type": "AI/ML Deployment",
+    "project_value": 1259623.8,
+    "billable_hours": 4827,
+    "satisfaction": 8,
+    "churned": false
+  },
+  {
+    "client_id": "C2023002",
+    "client_name": "Veolia",
+    "industry": "Transport",
+    "project_type": "Cloud Migration",
+    "project_value": 587614.34,
+    "billable_hours": 1939,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023003",
+    "client_name": "Airbus",
+    "industry": "Energy",
+    "project_type": "ERP Implementation",
+    "project_value": 1815428.17,
+    "billable_hours": 898,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023004",
+    "client_name": "ENGIE",
+    "industry": "Public Sector",
+    "project_type": "ERP Implementation",
+    "project_value": 1826466.97,
+    "billable_hours": 4410,
+    "satisfaction": 8,
+    "churned": false
+  },
+  {
+    "client_id": "C2023005",
+    "client_name": "L'Or\u00e9al",
+    "industry": "Transport",
+    "project_type": "IT Outsourcing",
+    "project_value": 903089.99,
+    "billable_hours": 4161,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023006",
+    "client_name": "AXA",
+    "industry": "Retail",
+    "project_type": "Data Analytics",
+    "project_value": 1505559.7,
+    "billable_hours": 1092,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023007",
+    "client_name": "Orange",
+    "industry": "Energy",
+    "project_type": "Data Analytics",
+    "project_value": 1747539.7,
+    "billable_hours": 3681,
+    "satisfaction": 7,
+    "churned": false
+  },
+  {
+    "client_id": "C2023008",
+    "client_name": "Airbus",
+    "industry": "Pharma",
+    "project_type": "AI/ML Deployment",
+    "project_value": 1809293.81,
+    "billable_hours": 936,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023009",
+    "client_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "industry": "Transport",
+    "project_type": "Digital Transformation",
+    "project_value": 1103444.22,
+    "billable_hours": 4660,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023010",
+    "client_name": "EDF",
+    "industry": "Energy",
+    "project_type": "Data Analytics",
+    "project_value": 58718.45,
+    "billable_hours": 1290,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023011",
+    "client_name": "BNP Paribas",
+    "industry": "Public Sector",
+    "project_type": "Cloud Migration",
+    "project_value": 940227.63,
+    "billable_hours": 1137,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023012",
+    "client_name": "AXA",
+    "industry": "Retail",
+    "project_type": "ERP Implementation",
+    "project_value": 1386381.34,
+    "billable_hours": 4523,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023013",
+    "client_name": "ENGIE",
+    "industry": "Transport",
+    "project_type": "Cloud Migration",
+    "project_value": 213634.54,
+    "billable_hours": 3440,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023014",
+    "client_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "industry": "Transport",
+    "project_type": "ERP Implementation",
+    "project_value": 363244.57,
+    "billable_hours": 3594,
+    "satisfaction": 7,
+    "churned": false
+  },
+  {
+    "client_id": "C2023015",
+    "client_name": "Carrefour",
+    "industry": "Energy",
+    "project_type": "IT Outsourcing",
+    "project_value": 139693.88,
+    "billable_hours": 479,
+    "satisfaction": 7,
+    "churned": false
+  },
+  {
+    "client_id": "C2023016",
+    "client_name": "AXA",
+    "industry": "Pharma",
+    "project_type": "IT Outsourcing",
+    "project_value": 468872.37,
+    "billable_hours": 4514,
+    "satisfaction": 8,
+    "churned": false
+  },
+  {
+    "client_id": "C2023017",
+    "client_name": "La Poste",
+    "industry": "Retail",
+    "project_type": "AI/ML Deployment",
+    "project_value": 1268459.2,
+    "billable_hours": 4472,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023018",
+    "client_name": "La Poste",
+    "industry": "Pharma",
+    "project_type": "Digital Transformation",
+    "project_value": 1546380.69,
+    "billable_hours": 2997,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023019",
+    "client_name": "La Poste",
+    "industry": "Banking",
+    "project_type": "Digital Transformation",
+    "project_value": 1804412.96,
+    "billable_hours": 2836,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023020",
+    "client_name": "TotalEnergies",
+    "industry": "Insurance",
+    "project_type": "Digital Transformation",
+    "project_value": 734634.74,
+    "billable_hours": 4292,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023021",
+    "client_name": "La Poste",
+    "industry": "Insurance",
+    "project_type": "ERP Implementation",
+    "project_value": 606746.15,
+    "billable_hours": 762,
+    "satisfaction": 8,
+    "churned": false
+  },
+  {
+    "client_id": "C2023022",
+    "client_name": "Veolia",
+    "industry": "Transport",
+    "project_type": "AI/ML Deployment",
+    "project_value": 1001617.23,
+    "billable_hours": 2171,
+    "satisfaction": 7,
+    "churned": false
+  },
+  {
+    "client_id": "C2023023",
+    "client_name": "La Poste",
+    "industry": "Retail",
+    "project_type": "IT Outsourcing",
+    "project_value": 847088.99,
+    "billable_hours": 4285,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023024",
+    "client_name": "EDF",
+    "industry": "Banking",
+    "project_type": "ERP Implementation",
+    "project_value": 452588.28,
+    "billable_hours": 4231,
+    "satisfaction": 9,
+    "churned": false
+  },
+  {
+    "client_id": "C2023025",
+    "client_name": "AXA",
+    "industry": "Insurance",
+    "project_type": "Process Optimization",
+    "project_value": 1616279.88,
+    "billable_hours": 4467,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023026",
+    "client_name": "Airbus",
+    "industry": "Telecom",
+    "project_type": "IT Outsourcing",
+    "project_value": 1434105.74,
+    "billable_hours": 2477,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023027",
+    "client_name": "EDF",
+    "industry": "Pharma",
+    "project_type": "Cloud Migration",
+    "project_value": 1614195.91,
+    "billable_hours": 619,
+    "satisfaction": 10,
+    "churned": false
+  },
+  {
+    "client_id": "C2023028",
+    "client_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "industry": "Telecom",
+    "project_type": "Process Optimization",
+    "project_value": 1304850.9,
+    "billable_hours": 4657,
+    "satisfaction": 6,
+    "churned": false
+  },
+  {
+    "client_id": "C2023029",
+    "client_name": "Sanofi",
+    "industry": "Insurance",
+    "project_type": "Digital Transformation",
+    "project_value": 897352.7,
+    "billable_hours": 3168,
+    "satisfaction": 6,
+    "churned": false
+  }
+]

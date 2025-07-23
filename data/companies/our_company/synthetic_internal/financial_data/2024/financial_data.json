@@ -1,0 +1,122 @@
+[
+  {
+    "month": 1,
+    "year": 2024,
+    "client": "Carrefour",
+    "revenue": 1074742.58,
+    "expenses": 595878.1,
+    "billable_hours": 6218,
+    "project_margin": 0.36,
+    "profit": 478864.48
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "client": "Orange",
+    "revenue": 243642.3,
+    "expenses": 856977.56,
+    "billable_hours": 7937,
+    "project_margin": 0.2,
+    "profit": -613335.26
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "client": "Sanofi",
+    "revenue": 1861960.73,
+    "expenses": 1189996.06,
+    "billable_hours": 5260,
+    "project_margin": 0.29,
+    "profit": 671964.67
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "client": "SNCF",
+    "revenue": 890106.29,
+    "expenses": 500917.82,
+    "billable_hours": 2836,
+    "project_margin": 0.44,
+    "profit": 389188.47
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "client": "EDF",
+    "revenue": 1043036.08,
+    "expenses": 898201.19,
+    "billable_hours": 5477,
+    "project_margin": 0.23,
+    "profit": 144834.89
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "client": "Renault",
+    "revenue": 1662094.48,
+    "expenses": 458338.41,
+    "billable_hours": 5840,
+    "project_margin": 0.21,
+    "profit": 1203756.07
+  },
+  {
+    "month": 7,
+    "year": 2024,
+    "client": "EDF",
+    "revenue": 578582.83,
+    "expenses": 1202616.9,
+    "billable_hours": 746,
+    "project_margin": 0.29,
+    "profit": -624034.07
+  },
+  {
+    "month": 8,
+    "year": 2024,
+    "client": "Veolia",
+    "revenue": 676957.4,
+    "expenses": 1138052.89,
+    "billable_hours": 3823,
+    "project_margin": 0.21,
+    "profit": -461095.49
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "client": "Airbus",
+    "revenue": 621718.72,
+    "expenses": 1031385.33,
+    "billable_hours": 7801,
+    "project_margin": 0.15,
+    "profit": -409666.61
+  },
+  {
+    "month": 10,
+    "year": 2024,
+    "client": "Orange",
+    "revenue": 935269.63,
+    "expenses": 864777.44,
+    "billable_hours": 702,
+    "project_margin": 0.38,
+    "profit": 70492.19
+  },
+  {
+    "month": 11,
+    "year": 2024,
+    "client": "Airbus",
+    "revenue": 445921.94,
+    "expenses": 650003.46,
+    "billable_hours": 6940,
+    "project_margin": 0.19,
+    "profit": -204081.52
+  },
+  {
+    "month": 12,
+    "year": 2024,
+    "client": "AXA",
+    "revenue": 1361714.42,
+    "expenses": 1019802.63,
+    "billable_hours": 7448,
+    "project_margin": 0.43,
+    "profit": 341911.79
+  }
+]

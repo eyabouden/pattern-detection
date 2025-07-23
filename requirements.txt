@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pymupdf
+google-search-python
+tqdm 

@@ -1,0 +1,122 @@
+[
+  {
+    "month": 1,
+    "year": 2023,
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "revenue": 1419778.4,
+    "expenses": 1284178.46,
+    "billable_hours": 3944,
+    "project_margin": 0.11,
+    "profit": 135599.94
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "client": "Sanofi",
+    "revenue": 1631747.2,
+    "expenses": 135815.49,
+    "billable_hours": 2854,
+    "project_margin": 0.44,
+    "profit": 1495931.71
+  },
+  {
+    "month": 3,
+    "year": 2023,
+    "client": "Carrefour",
+    "revenue": 620828.88,
+    "expenses": 1083315.38,
+    "billable_hours": 934,
+    "project_margin": 0.16,
+    "profit": -462486.5
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "client": "Airbus",
+    "revenue": 1658040.0,
+    "expenses": 1366736.03,
+    "billable_hours": 3290,
+    "project_margin": 0.25,
+    "profit": 291303.97
+  },
+  {
+    "month": 5,
+    "year": 2023,
+    "client": "La Poste",
+    "revenue": 1207114.08,
+    "expenses": 851745.24,
+    "billable_hours": 3187,
+    "project_margin": 0.16,
+    "profit": 355368.84
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "client": "EDF",
+    "revenue": 1563836.51,
+    "expenses": 1003572.54,
+    "billable_hours": 5082,
+    "project_margin": 0.22,
+    "profit": 560263.97
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "client": "L'Or\u00e9al",
+    "revenue": 1668590.81,
+    "expenses": 276456.0,
+    "billable_hours": 7169,
+    "project_margin": 0.21,
+    "profit": 1392134.81
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "client": "Veolia",
+    "revenue": 242322.97,
+    "expenses": 1230246.77,
+    "billable_hours": 7011,
+    "project_margin": 0.2,
+    "profit": -987923.8
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "client": "BNP Paribas",
+    "revenue": 752635.07,
+    "expenses": 526836.26,
+    "billable_hours": 6811,
+    "project_margin": 0.31,
+    "profit": 225798.81
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "revenue": 389235.11,
+    "expenses": 905343.46,
+    "billable_hours": 1216,
+    "project_margin": 0.14,
+    "profit": -516108.35
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "client": "Renault",
+    "revenue": 1686487.4,
+    "expenses": 1068872.88,
+    "billable_hours": 2184,
+    "project_margin": 0.27,
+    "profit": 617614.52
+  },
+  {
+    "month": 12,
+    "year": 2023,
+    "client": "ENGIE",
+    "revenue": 634216.38,
+    "expenses": 779663.75,
+    "billable_hours": 1436,
+    "project_margin": 0.44,
+    "profit": -145447.37
+  }
+]
