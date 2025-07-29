@@ -1,842 +1,842 @@
 [
   {
     "tender_id": "T20210000",
-    "responder": "Company B",
-    "response_date": "2021-08-19",
-    "bid_amount": 1876491.05,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210000",
-    "responder": "Company B",
-    "response_date": "2021-08-10",
-    "bid_amount": 1927898.05,
+    "responder": "Company D",
+    "response_date": "2021-09-17",
+    "bid_amount": 4874345.15,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210000",
     "responder": "Company C",
-    "response_date": "2021-08-12",
-    "bid_amount": 1996206.06,
+    "response_date": "2021-09-17",
+    "bid_amount": 5037165.4,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210000",
+    "responder": "Company E",
+    "response_date": "2021-09-05",
+    "bid_amount": 4632718.77,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210001",
+    "responder": "Company E",
+    "response_date": "2021-04-21",
+    "bid_amount": 2976201.67,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210001",
-    "responder": "Company A",
-    "response_date": "2021-10-06",
-    "bid_amount": 4534459.56,
+    "responder": "Company E",
+    "response_date": "2021-04-24",
+    "bid_amount": 2688894.85,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210001",
+    "responder": "Company E",
+    "response_date": "2021-04-25",
+    "bid_amount": 2849910.46,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210002",
     "responder": "Company B",
-    "response_date": "2021-09-23",
-    "bid_amount": 3976092.37,
+    "response_date": "2021-05-16",
+    "bid_amount": 5169808.14,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210001",
-    "responder": "Company C",
-    "response_date": "2021-09-08",
-    "bid_amount": 3431207.68,
+    "tender_id": "T20210002",
+    "responder": "Company B",
+    "response_date": "2021-05-12",
+    "bid_amount": 4932070.73,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210002",
     "responder": "Company E",
-    "response_date": "2021-06-07",
-    "bid_amount": 2473504.59,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210002",
-    "responder": "Company D",
     "response_date": "2021-05-22",
-    "bid_amount": 2578561.01,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210002",
-    "responder": "Company B",
-    "response_date": "2021-05-15",
-    "bid_amount": 2565193.79,
-    "status": "Submitted"
+    "bid_amount": 4063286.52,
+    "status": "Accepted"
   },
   {
     "tender_id": "T20210003",
-    "responder": "Company B",
-    "response_date": "2021-05-31",
-    "bid_amount": 535516.22,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210003",
-    "responder": "Company E",
-    "response_date": "2021-05-24",
-    "bid_amount": 555152.03,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210003",
-    "responder": "Company B",
-    "response_date": "2021-06-20",
-    "bid_amount": 456019.29,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210004",
-    "responder": "Company B",
-    "response_date": "2021-02-20",
-    "bid_amount": 2126718.35,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210004",
-    "responder": "Company E",
-    "response_date": "2021-02-16",
-    "bid_amount": 1969495.24,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210004",
-    "responder": "Company B",
-    "response_date": "2021-01-26",
-    "bid_amount": 2077123.66,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210005",
-    "responder": "Company D",
-    "response_date": "2021-07-18",
-    "bid_amount": 1762603.03,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210005",
-    "responder": "Company C",
-    "response_date": "2021-07-29",
-    "bid_amount": 1851486.28,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210005",
-    "responder": "Company E",
-    "response_date": "2021-07-17",
-    "bid_amount": 2477623.93,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210006",
-    "responder": "Company B",
-    "response_date": "2021-05-06",
-    "bid_amount": 772905.46,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210006",
-    "responder": "Company D",
-    "response_date": "2021-05-31",
-    "bid_amount": 737176.73,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210006",
-    "responder": "Company B",
-    "response_date": "2021-05-18",
-    "bid_amount": 842416.21,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210007",
     "responder": "Company A",
-    "response_date": "2021-10-10",
-    "bid_amount": 1471162.9,
+    "response_date": "2021-02-02",
+    "bid_amount": 118444.19,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210003",
+    "responder": "Company E",
+    "response_date": "2021-02-10",
+    "bid_amount": 160514.47,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210003",
+    "responder": "Company A",
+    "response_date": "2021-02-21",
+    "bid_amount": 124899.02,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210004",
+    "responder": "Company D",
+    "response_date": "2021-06-11",
+    "bid_amount": 927494.12,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210004",
+    "responder": "Company B",
+    "response_date": "2021-06-14",
+    "bid_amount": 920276.23,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210004",
+    "responder": "Company E",
+    "response_date": "2021-06-18",
+    "bid_amount": 1044818.86,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210005",
+    "responder": "Company B",
+    "response_date": "2021-09-10",
+    "bid_amount": 1890498.93,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210005",
+    "responder": "Company E",
+    "response_date": "2021-09-09",
+    "bid_amount": 1354558.03,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210005",
+    "responder": "Company B",
+    "response_date": "2021-08-31",
+    "bid_amount": 1884912.27,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210006",
+    "responder": "Company D",
+    "response_date": "2021-04-23",
+    "bid_amount": 3640066.15,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210006",
+    "responder": "Company A",
+    "response_date": "2021-05-03",
+    "bid_amount": 4863565.36,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210006",
+    "responder": "Company A",
+    "response_date": "2021-04-30",
+    "bid_amount": 4888297.07,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210007",
-    "responder": "Company E",
-    "response_date": "2021-10-07",
-    "bid_amount": 1595490.02,
-    "status": "Submitted"
+    "responder": "Company C",
+    "response_date": "2021-07-17",
+    "bid_amount": 4362669.5,
+    "status": "Rejected"
   },
   {
     "tender_id": "T20210007",
     "responder": "Company B",
-    "response_date": "2021-10-04",
-    "bid_amount": 1764066.11,
+    "response_date": "2021-08-09",
+    "bid_amount": 4128500.12,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210007",
+    "responder": "Company C",
+    "response_date": "2021-07-27",
+    "bid_amount": 4053789.82,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210008",
-    "responder": "Company B",
-    "response_date": "2021-06-27",
-    "bid_amount": 4187073.94,
+    "responder": "Company C",
+    "response_date": "2021-03-10",
+    "bid_amount": 46490.51,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210008",
     "responder": "Company C",
-    "response_date": "2021-06-26",
-    "bid_amount": 3381780.95,
+    "response_date": "2021-03-18",
+    "bid_amount": 43528.93,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210008",
-    "responder": "Company E",
-    "response_date": "2021-07-11",
-    "bid_amount": 3998705.28,
-    "status": "Submitted"
+    "responder": "Company C",
+    "response_date": "2021-03-26",
+    "bid_amount": 48496.06,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210009",
+    "responder": "Company A",
+    "response_date": "2021-05-03",
+    "bid_amount": 410129.81,
+    "status": "Accepted"
   },
   {
     "tender_id": "T20210009",
     "responder": "Company B",
-    "response_date": "2021-05-06",
-    "bid_amount": 633539.38,
+    "response_date": "2021-04-13",
+    "bid_amount": 369804.71,
     "status": "Rejected"
   },
   {
     "tender_id": "T20210009",
-    "responder": "Company C",
-    "response_date": "2021-05-14",
-    "bid_amount": 611010.76,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210009",
-    "responder": "Company E",
-    "response_date": "2021-04-19",
-    "bid_amount": 606094.43,
+    "responder": "Company D",
+    "response_date": "2021-04-24",
+    "bid_amount": 387968.6,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210010",
-    "responder": "Company E",
-    "response_date": "2021-05-10",
-    "bid_amount": 3279242.21,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210010",
-    "responder": "Company B",
-    "response_date": "2021-05-27",
-    "bid_amount": 2421628.24,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210010",
-    "responder": "Company C",
-    "response_date": "2021-05-29",
-    "bid_amount": 2495283.59,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210011",
-    "responder": "Company C",
-    "response_date": "2021-03-25",
-    "bid_amount": 647326.25,
+    "responder": "Company D",
+    "response_date": "2021-12-10",
+    "bid_amount": 1739756.28,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210011",
-    "responder": "Company B",
-    "response_date": "2021-04-18",
-    "bid_amount": 809686.69,
+    "tender_id": "T20210010",
+    "responder": "Company D",
+    "response_date": "2022-01-02",
+    "bid_amount": 2386090.94,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210010",
+    "responder": "Company D",
+    "response_date": "2021-12-19",
+    "bid_amount": 1975405.47,
     "status": "Accepted"
   },
   {
     "tender_id": "T20210011",
+    "responder": "Company D",
+    "response_date": "2021-06-27",
+    "bid_amount": 4549713.52,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210011",
+    "responder": "Company D",
+    "response_date": "2021-07-10",
+    "bid_amount": 5415770.11,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210011",
     "responder": "Company E",
-    "response_date": "2021-04-06",
-    "bid_amount": 634715.8,
+    "response_date": "2021-06-26",
+    "bid_amount": 4210631.87,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210012",
-    "responder": "Company D",
-    "response_date": "2021-04-03",
-    "bid_amount": 1355526.99,
+    "responder": "Company B",
+    "response_date": "2021-03-05",
+    "bid_amount": 1038801.95,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210012",
     "responder": "Company C",
-    "response_date": "2021-03-31",
-    "bid_amount": 1833182.48,
-    "status": "Rejected"
+    "response_date": "2021-03-08",
+    "bid_amount": 1239511.47,
+    "status": "Submitted"
   },
   {
     "tender_id": "T20210012",
     "responder": "Company E",
     "response_date": "2021-03-11",
-    "bid_amount": 1438586.01,
+    "bid_amount": 1112188.1,
     "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210013",
-    "responder": "Company D",
-    "response_date": "2021-05-06",
-    "bid_amount": 666549.58,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210013",
-    "responder": "Company A",
-    "response_date": "2021-05-11",
-    "bid_amount": 715980.06,
-    "status": "Rejected"
   },
   {
     "tender_id": "T20210013",
     "responder": "Company B",
-    "response_date": "2021-05-13",
-    "bid_amount": 587977.95,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210014",
-    "responder": "Company A",
-    "response_date": "2021-07-18",
-    "bid_amount": 109868.97,
+    "response_date": "2021-04-18",
+    "bid_amount": 3873385.3,
     "status": "Accepted"
   },
   {
-    "tender_id": "T20210014",
+    "tender_id": "T20210013",
+    "responder": "Company A",
+    "response_date": "2021-04-13",
+    "bid_amount": 3120514.67,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210013",
     "responder": "Company B",
-    "response_date": "2021-07-25",
-    "bid_amount": 114914.04,
+    "response_date": "2021-04-30",
+    "bid_amount": 3413787.26,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210014",
     "responder": "Company E",
-    "response_date": "2021-08-07",
-    "bid_amount": 120540.41,
+    "response_date": "2021-09-17",
+    "bid_amount": 4024025.54,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210014",
+    "responder": "Company E",
+    "response_date": "2021-09-20",
+    "bid_amount": 4467236.24,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210014",
+    "responder": "Company D",
+    "response_date": "2021-10-09",
+    "bid_amount": 5141989.95,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210015",
     "responder": "Company C",
-    "response_date": "2021-06-12",
-    "bid_amount": 2937362.75,
-    "status": "Submitted"
+    "response_date": "2021-10-20",
+    "bid_amount": 4298582.48,
+    "status": "Accepted"
   },
   {
     "tender_id": "T20210015",
-    "responder": "Company C",
-    "response_date": "2021-06-14",
-    "bid_amount": 4058254.51,
-    "status": "Submitted"
+    "responder": "Company D",
+    "response_date": "2021-10-22",
+    "bid_amount": 4143004.37,
+    "status": "Rejected"
   },
   {
     "tender_id": "T20210015",
+    "responder": "Company A",
+    "response_date": "2021-10-20",
+    "bid_amount": 4307532.43,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210016",
+    "responder": "Company E",
+    "response_date": "2021-03-09",
+    "bid_amount": 210046.98,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210016",
     "responder": "Company C",
+    "response_date": "2021-03-25",
+    "bid_amount": 234637.71,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210016",
+    "responder": "Company B",
+    "response_date": "2021-03-26",
+    "bid_amount": 216035.13,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210017",
+    "responder": "Company D",
+    "response_date": "2021-12-29",
+    "bid_amount": 9974139.79,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210017",
+    "responder": "Company D",
+    "response_date": "2022-01-10",
+    "bid_amount": 9690508.87,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210017",
+    "responder": "Company E",
+    "response_date": "2021-12-24",
+    "bid_amount": 10759975.67,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210018",
+    "responder": "Company E",
+    "response_date": "2021-01-12",
+    "bid_amount": 492957.52,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210018",
+    "responder": "Company D",
+    "response_date": "2021-01-13",
+    "bid_amount": 597334.93,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210018",
+    "responder": "Company E",
+    "response_date": "2021-01-09",
+    "bid_amount": 592746.64,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210019",
+    "responder": "Company A",
+    "response_date": "2021-05-24",
+    "bid_amount": 1848581.82,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210019",
+    "responder": "Company E",
     "response_date": "2021-05-27",
-    "bid_amount": 4028725.5,
-    "status": "Accepted"
+    "bid_amount": 1831033.87,
+    "status": "Rejected"
   },
   {
-    "tender_id": "T20210016",
-    "responder": "Company A",
-    "response_date": "2021-11-06",
-    "bid_amount": 1640876.61,
-    "status": "Submitted"
+    "tender_id": "T20210019",
+    "responder": "Company B",
+    "response_date": "2021-06-12",
+    "bid_amount": 1677224.47,
+    "status": "Rejected"
   },
   {
-    "tender_id": "T20210016",
+    "tender_id": "T20210020",
     "responder": "Company C",
-    "response_date": "2021-10-23",
-    "bid_amount": 1824726.67,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210016",
-    "responder": "Company D",
-    "response_date": "2021-10-26",
-    "bid_amount": 1630675.66,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210017",
-    "responder": "Company E",
-    "response_date": "2021-08-16",
-    "bid_amount": 1105608.67,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210017",
-    "responder": "Company B",
-    "response_date": "2021-08-03",
-    "bid_amount": 1154789.8,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210017",
-    "responder": "Company E",
-    "response_date": "2021-08-09",
-    "bid_amount": 1066359.75,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210018",
-    "responder": "Company E",
-    "response_date": "2021-07-10",
-    "bid_amount": 2060015.55,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210018",
-    "responder": "Company A",
-    "response_date": "2021-07-24",
-    "bid_amount": 2041721.89,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210018",
-    "responder": "Company D",
-    "response_date": "2021-07-17",
-    "bid_amount": 2291306.52,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210019",
-    "responder": "Company A",
-    "response_date": "2021-06-04",
-    "bid_amount": 121462.66,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210019",
-    "responder": "Company B",
-    "response_date": "2021-06-15",
-    "bid_amount": 145449.57,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210019",
-    "responder": "Company B",
-    "response_date": "2021-06-06",
-    "bid_amount": 168214.54,
+    "response_date": "2021-06-09",
+    "bid_amount": 3725940.89,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210020",
     "responder": "Company B",
-    "response_date": "2021-05-02",
-    "bid_amount": 1469165.26,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210020",
-    "responder": "Company D",
-    "response_date": "2021-04-08",
-    "bid_amount": 1706570.85,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210020",
-    "responder": "Company D",
-    "response_date": "2021-04-14",
-    "bid_amount": 1288457.4,
+    "response_date": "2021-05-30",
+    "bid_amount": 4065964.5,
     "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210020",
+    "responder": "Company B",
+    "response_date": "2021-06-09",
+    "bid_amount": 3355455.05,
+    "status": "Submitted"
   },
   {
     "tender_id": "T20210021",
     "responder": "Company A",
-    "response_date": "2021-02-02",
-    "bid_amount": 1312904.57,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210021",
-    "responder": "Company E",
-    "response_date": "2021-02-18",
-    "bid_amount": 1371085.87,
+    "response_date": "2021-06-03",
+    "bid_amount": 2914769.91,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210021",
-    "responder": "Company B",
-    "response_date": "2021-02-18",
-    "bid_amount": 984836.53,
+    "responder": "Company D",
+    "response_date": "2021-05-22",
+    "bid_amount": 2544488.04,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210021",
+    "responder": "Company C",
+    "response_date": "2021-06-09",
+    "bid_amount": 3038956.43,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210022",
+    "responder": "Company E",
+    "response_date": "2021-01-18",
+    "bid_amount": 789400.9,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210022",
+    "responder": "Company E",
+    "response_date": "2021-01-23",
+    "bid_amount": 936795.45,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210022",
+    "responder": "Company C",
+    "response_date": "2021-02-02",
+    "bid_amount": 1024155.74,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210023",
+    "responder": "Company D",
+    "response_date": "2021-09-30",
+    "bid_amount": 1168962.03,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210023",
+    "responder": "Company B",
+    "response_date": "2021-10-17",
+    "bid_amount": 1032840.25,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210023",
+    "responder": "Company C",
+    "response_date": "2021-10-09",
+    "bid_amount": 1359694.06,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210024",
+    "responder": "Company D",
+    "response_date": "2021-06-09",
+    "bid_amount": 3313375.66,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210024",
+    "responder": "Company E",
+    "response_date": "2021-06-06",
+    "bid_amount": 2777127.28,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210024",
     "responder": "Company E",
     "response_date": "2021-06-10",
-    "bid_amount": 2564094.32,
+    "bid_amount": 3280756.44,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210022",
+    "tender_id": "T20210025",
+    "responder": "Company E",
+    "response_date": "2021-08-21",
+    "bid_amount": 2634977.78,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210025",
     "responder": "Company B",
-    "response_date": "2021-06-16",
-    "bid_amount": 2627518.59,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210022",
-    "responder": "Company E",
-    "response_date": "2021-06-11",
-    "bid_amount": 3666407.88,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210023",
-    "responder": "Company E",
-    "response_date": "2021-08-14",
-    "bid_amount": 796615.43,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210023",
-    "responder": "Company C",
-    "response_date": "2021-07-26",
-    "bid_amount": 672636.08,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210023",
-    "responder": "Company C",
-    "response_date": "2021-08-06",
-    "bid_amount": 623661.42,
-    "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210024",
-    "responder": "Company A",
-    "response_date": "2021-05-30",
-    "bid_amount": 5074828.08,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210024",
-    "responder": "Company A",
-    "response_date": "2021-06-22",
-    "bid_amount": 5411505.83,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210024",
-    "responder": "Company C",
-    "response_date": "2021-06-05",
-    "bid_amount": 4069861.14,
+    "response_date": "2021-08-27",
+    "bid_amount": 2229715.42,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210025",
-    "responder": "Company C",
-    "response_date": "2021-06-17",
-    "bid_amount": 2542799.52,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210025",
-    "responder": "Company E",
-    "response_date": "2021-06-03",
-    "bid_amount": 2067001.78,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210025",
-    "responder": "Company A",
-    "response_date": "2021-06-16",
-    "bid_amount": 1896980.43,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210026",
     "responder": "Company B",
-    "response_date": "2021-03-30",
-    "bid_amount": 335444.05,
+    "response_date": "2021-09-10",
+    "bid_amount": 3178188.97,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210026",
     "responder": "Company D",
-    "response_date": "2021-03-30",
-    "bid_amount": 438770.01,
+    "response_date": "2021-08-28",
+    "bid_amount": 4143034.05,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210026",
+    "responder": "Company D",
+    "response_date": "2021-09-16",
+    "bid_amount": 5208894.5,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210026",
+    "responder": "Company B",
+    "response_date": "2021-08-26",
+    "bid_amount": 5130626.76,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210027",
+    "responder": "Company B",
+    "response_date": "2021-03-06",
+    "bid_amount": 3094460.14,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210027",
+    "responder": "Company B",
+    "response_date": "2021-03-10",
+    "bid_amount": 3617312.95,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210027",
     "responder": "Company A",
-    "response_date": "2021-04-07",
-    "bid_amount": 461256.98,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210027",
-    "responder": "Company B",
-    "response_date": "2021-05-07",
-    "bid_amount": 1568748.51,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210027",
-    "responder": "Company C",
-    "response_date": "2021-04-21",
-    "bid_amount": 1779005.32,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210027",
-    "responder": "Company C",
-    "response_date": "2021-05-06",
-    "bid_amount": 1382181.09,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210028",
-    "responder": "Company B",
-    "response_date": "2021-03-23",
-    "bid_amount": 1855579.95,
+    "response_date": "2021-03-18",
+    "bid_amount": 3127022.07,
     "status": "Accepted"
   },
   {
     "tender_id": "T20210028",
-    "responder": "Company B",
-    "response_date": "2021-04-10",
-    "bid_amount": 1720229.5,
+    "responder": "Company A",
+    "response_date": "2021-07-29",
+    "bid_amount": 1298456.41,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210028",
-    "responder": "Company A",
-    "response_date": "2021-04-16",
-    "bid_amount": 1905060.19,
+    "responder": "Company D",
+    "response_date": "2021-08-07",
+    "bid_amount": 1373135.01,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210028",
+    "responder": "Company D",
+    "response_date": "2021-08-05",
+    "bid_amount": 1712430.15,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210029",
+    "responder": "Company D",
+    "response_date": "2021-07-10",
+    "bid_amount": 336241.97,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210029",
+    "responder": "Company B",
+    "response_date": "2021-07-15",
+    "bid_amount": 342472.49,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210029",
+    "responder": "Company D",
+    "response_date": "2021-07-06",
+    "bid_amount": 346064.05,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210030",
     "responder": "Company A",
     "response_date": "2021-07-03",
-    "bid_amount": 4198273.66,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210029",
-    "responder": "Company E",
-    "response_date": "2021-06-18",
-    "bid_amount": 4018769.99,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210029",
-    "responder": "Company E",
-    "response_date": "2021-06-27",
-    "bid_amount": 4150988.68,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210030",
-    "responder": "Company E",
-    "response_date": "2021-10-27",
-    "bid_amount": 1546376.48,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210030",
-    "responder": "Company D",
-    "response_date": "2021-11-12",
-    "bid_amount": 2001735.94,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210030",
-    "responder": "Company D",
-    "response_date": "2021-10-31",
-    "bid_amount": 2082072.96,
+    "bid_amount": 3544583.92,
     "status": "Rejected"
   },
   {
-    "tender_id": "T20210031",
+    "tender_id": "T20210030",
+    "responder": "Company E",
+    "response_date": "2021-07-07",
+    "bid_amount": 3236218.32,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210030",
     "responder": "Company D",
-    "response_date": "2021-12-07",
-    "bid_amount": 95508.74,
+    "response_date": "2021-06-19",
+    "bid_amount": 2674784.38,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210031",
+    "responder": "Company A",
+    "response_date": "2021-09-07",
+    "bid_amount": 4716727.24,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210031",
     "responder": "Company E",
-    "response_date": "2021-11-28",
-    "bid_amount": 97078.16,
+    "response_date": "2021-10-02",
+    "bid_amount": 5259215.65,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210031",
     "responder": "Company C",
-    "response_date": "2021-12-17",
-    "bid_amount": 87879.95,
+    "response_date": "2021-10-01",
+    "bid_amount": 4788847.41,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210032",
+    "responder": "Company D",
+    "response_date": "2021-08-29",
+    "bid_amount": 3603802.7,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210032",
+    "responder": "Company D",
+    "response_date": "2021-08-18",
+    "bid_amount": 3952652.59,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210032",
     "responder": "Company B",
-    "response_date": "2021-04-28",
-    "bid_amount": 470492.61,
+    "response_date": "2021-08-19",
+    "bid_amount": 3261571.9,
+    "status": "Rejected"
+  },
+  {
+    "tender_id": "T20210033",
+    "responder": "Company E",
+    "response_date": "2021-06-06",
+    "bid_amount": 3247777.01,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210032",
+    "tender_id": "T20210033",
+    "responder": "Company D",
+    "response_date": "2021-05-26",
+    "bid_amount": 4120713.09,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210033",
+    "responder": "Company B",
+    "response_date": "2021-05-24",
+    "bid_amount": 3587261.44,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210034",
     "responder": "Company C",
-    "response_date": "2021-04-16",
-    "bid_amount": 440032.75,
+    "response_date": "2021-03-10",
+    "bid_amount": 3357396.96,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210032",
+    "tender_id": "T20210034",
+    "responder": "Company A",
+    "response_date": "2021-04-05",
+    "bid_amount": 3188946.2,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210034",
+    "responder": "Company E",
+    "response_date": "2021-04-06",
+    "bid_amount": 3312187.11,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210035",
+    "responder": "Company E",
+    "response_date": "2021-04-20",
+    "bid_amount": 4460831.48,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210035",
     "responder": "Company C",
     "response_date": "2021-05-05",
-    "bid_amount": 510306.79,
+    "bid_amount": 4104509.39,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210033",
+    "tender_id": "T20210035",
+    "responder": "Company D",
+    "response_date": "2021-04-23",
+    "bid_amount": 4407446.98,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210036",
     "responder": "Company C",
-    "response_date": "2021-12-20",
-    "bid_amount": 219632.45,
+    "response_date": "2021-10-19",
+    "bid_amount": 2800169.71,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210033",
-    "responder": "Company C",
-    "response_date": "2021-12-22",
-    "bid_amount": 153095.94,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210033",
-    "responder": "Company A",
-    "response_date": "2021-12-31",
-    "bid_amount": 174863.59,
+    "tender_id": "T20210036",
+    "responder": "Company D",
+    "response_date": "2021-09-29",
+    "bid_amount": 3403909.93,
     "status": "Rejected"
   },
   {
-    "tender_id": "T20210034",
-    "responder": "Company B",
-    "response_date": "2021-11-24",
-    "bid_amount": 1959779.59,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210034",
-    "responder": "Company C",
-    "response_date": "2021-11-01",
-    "bid_amount": 2281659.96,
+    "tender_id": "T20210036",
+    "responder": "Company D",
+    "response_date": "2021-10-05",
+    "bid_amount": 3407234.48,
     "status": "Rejected"
-  },
-  {
-    "tender_id": "T20210034",
-    "responder": "Company E",
-    "response_date": "2021-11-23",
-    "bid_amount": 1887586.56,
-    "status": "Accepted"
-  },
-  {
-    "tender_id": "T20210035",
-    "responder": "Company E",
-    "response_date": "2021-08-17",
-    "bid_amount": 1999568.32,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210035",
-    "responder": "Company E",
-    "response_date": "2021-08-23",
-    "bid_amount": 2091914.38,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210035",
-    "responder": "Company B",
-    "response_date": "2021-08-17",
-    "bid_amount": 2986601.28,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210036",
-    "responder": "Company B",
-    "response_date": "2021-06-08",
-    "bid_amount": 5668078.49,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210036",
-    "responder": "Company A",
-    "response_date": "2021-06-15",
-    "bid_amount": 4535787.61,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210036",
-    "responder": "Company A",
-    "response_date": "2021-06-12",
-    "bid_amount": 5192842.96,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210037",
-    "responder": "Company A",
-    "response_date": "2021-06-03",
-    "bid_amount": 1029714.78,
-    "status": "Accepted"
   },
   {
     "tender_id": "T20210037",
     "responder": "Company D",
-    "response_date": "2021-05-26",
-    "bid_amount": 1032670.73,
+    "response_date": "2021-05-07",
+    "bid_amount": 4205902.61,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210037",
-    "responder": "Company B",
-    "response_date": "2021-05-31",
-    "bid_amount": 940109.9,
+    "responder": "Company E",
+    "response_date": "2021-04-18",
+    "bid_amount": 3205602.82,
     "status": "Submitted"
   },
   {
-    "tender_id": "T20210038",
-    "responder": "Company B",
-    "response_date": "2021-09-09",
-    "bid_amount": 817392.54,
-    "status": "Submitted"
-  },
-  {
-    "tender_id": "T20210038",
-    "responder": "Company A",
-    "response_date": "2021-09-09",
-    "bid_amount": 938090.31,
-    "status": "Submitted"
+    "tender_id": "T20210037",
+    "responder": "Company C",
+    "response_date": "2021-04-29",
+    "bid_amount": 3781659.67,
+    "status": "Rejected"
   },
   {
     "tender_id": "T20210038",
     "responder": "Company E",
-    "response_date": "2021-08-31",
-    "bid_amount": 842132.66,
-    "status": "Rejected"
+    "response_date": "2021-06-17",
+    "bid_amount": 265617.7,
+    "status": "Submitted"
+  },
+  {
+    "tender_id": "T20210038",
+    "responder": "Company B",
+    "response_date": "2021-05-25",
+    "bid_amount": 297791.98,
+    "status": "Accepted"
+  },
+  {
+    "tender_id": "T20210038",
+    "responder": "Company B",
+    "response_date": "2021-06-01",
+    "bid_amount": 247180.1,
+    "status": "Submitted"
   },
   {
     "tender_id": "T20210039",
-    "responder": "Company B",
-    "response_date": "2021-05-26",
-    "bid_amount": 4032419.01,
+    "responder": "Company A",
+    "response_date": "2021-02-05",
+    "bid_amount": 3935795.03,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210039",
     "responder": "Company C",
-    "response_date": "2021-05-26",
-    "bid_amount": 4859796.27,
+    "response_date": "2021-01-12",
+    "bid_amount": 3504853.41,
     "status": "Submitted"
   },
   {
     "tender_id": "T20210039",
-    "responder": "Company D",
-    "response_date": "2021-06-11",
-    "bid_amount": 5523267.06,
-    "status": "Rejected"
+    "responder": "Company A",
+    "response_date": "2021-02-05",
+    "bid_amount": 3610443.79,
+    "status": "Submitted"
   }
 ]

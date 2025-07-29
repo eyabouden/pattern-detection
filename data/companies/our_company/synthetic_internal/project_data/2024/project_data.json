@@ -1,1517 +1,3219 @@
 [
   {
     "project_id": "P20240000",
-    "client": "Sanofi",
+    "client": "Veolia",
     "industry": "Insurance",
     "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-09-01",
-    "end_date": "2025-05-29",
-    "duration_months": 9,
-    "sales_month": 9,
-    "complexity": "Medium",
-    "team_size": 4,
+    "project_type": "Cybersecurity Audit",
+    "start_date": "2024-07-12",
+    "end_date": "2024-08-26",
+    "duration_months": 1.5,
+    "sales_month": 7,
+    "complexity": "Low",
+    "team_size": 8,
     "team_roles": [
-      "Business Analyst",
-      "Business Analyst",
-      "Manager",
-      "Consultant"
+      {
+        "role": "Data Scientist",
+        "years_experience": 8.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.6
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 11.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 14.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.5
+      }
     ],
-    "revenue": 310796.27,
-    "profit": 82165.93,
-    "profit_margin": 0.26
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1301461.4,
+    "profit": 235980.64,
+    "profit_margin": 0.18
   },
   {
     "project_id": "P20240001",
-    "client": "EDF",
-    "industry": "Energy",
-    "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-08-14",
-    "end_date": "2025-02-10",
-    "duration_months": 6,
-    "sales_month": 8,
-    "complexity": "Medium",
-    "team_size": 9,
-    "team_roles": [
-      "Manager",
-      "Data Scientist",
-      "Business Analyst",
-      "Senior Consultant",
-      "Project Manager",
-      "Business Analyst",
-      "Consultant",
-      "Senior Consultant",
-      "Data Scientist"
-    ],
-    "revenue": 741719.52,
-    "profit": 164903.69,
-    "profit_margin": 0.22
-  },
-  {
-    "project_id": "P20240002",
-    "client": "Veolia",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-06-13",
-    "end_date": "2025-06-08",
-    "duration_months": 12,
-    "sales_month": 6,
-    "complexity": "Low",
-    "team_size": 9,
-    "team_roles": [
-      "Business Analyst",
-      "Manager",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Senior Consultant",
-      "Data Scientist",
-      "Manager",
-      "Senior Consultant",
-      "Manager"
-    ],
-    "revenue": 174374.28,
-    "profit": 46168.49,
-    "profit_margin": 0.26
-  },
-  {
-    "project_id": "P20240003",
-    "client": "SNCF",
-    "industry": "Banking",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-04-19",
-    "end_date": "2025-01-14",
-    "duration_months": 9,
-    "sales_month": 4,
-    "complexity": "Medium",
-    "team_size": 12,
-    "team_roles": [
-      "Project Manager",
-      "Project Manager",
-      "Data Scientist",
-      "Manager",
-      "Cloud Architect",
-      "Consultant",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Project Manager",
-      "Consultant",
-      "Cloud Architect",
-      "Cloud Architect"
-    ],
-    "revenue": 884483.69,
-    "profit": 298793.15,
-    "profit_margin": 0.34
-  },
-  {
-    "project_id": "P20240004",
-    "client": "L'Or\u00e9al",
+    "client": "Airbus",
     "industry": "Telecom",
     "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-02-15",
-    "end_date": "2024-08-13",
-    "duration_months": 6,
-    "sales_month": 2,
-    "complexity": "Medium",
-    "team_size": 9,
-    "team_roles": [
-      "Data Scientist",
-      "Project Manager",
-      "Business Analyst",
-      "Manager",
-      "Consultant",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Manager",
-      "Business Analyst"
-    ],
-    "revenue": 1247547.6,
-    "profit": 240259.09,
-    "profit_margin": 0.19
-  },
-  {
-    "project_id": "P20240005",
-    "client": "Airbus",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-05-27",
-    "end_date": "2025-02-21",
-    "duration_months": 9,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 5,
-    "team_roles": [
-      "Project Manager",
-      "Cloud Architect",
-      "Manager",
-      "Manager",
-      "Cloud Architect"
-    ],
-    "revenue": 1870336.47,
-    "profit": 498571.86,
-    "profit_margin": 0.27
-  },
-  {
-    "project_id": "P20240006",
-    "client": "La Poste",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-12-23",
-    "end_date": "2025-06-21",
-    "duration_months": 6,
-    "sales_month": 12,
-    "complexity": "Medium",
-    "team_size": 4,
-    "team_roles": [
-      "Data Scientist",
-      "Data Scientist",
-      "Senior Consultant",
-      "Project Manager"
-    ],
-    "revenue": 1556758.48,
-    "profit": 543422.03,
-    "profit_margin": 0.35
-  },
-  {
-    "project_id": "P20240007",
-    "client": "L'Or\u00e9al",
-    "industry": "Banking",
-    "is_repeat_client": false,
     "project_type": "Digital Transformation",
-    "start_date": "2024-05-13",
-    "end_date": "2024-08-11",
-    "duration_months": 3,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 9,
-    "team_roles": [
-      "Cloud Architect",
-      "Manager",
-      "Business Analyst",
-      "Project Manager",
-      "Senior Consultant",
-      "Manager",
-      "Project Manager",
-      "Business Analyst",
-      "Data Scientist"
-    ],
-    "revenue": 755727.85,
-    "profit": 161231.83,
-    "profit_margin": 0.21
-  },
-  {
-    "project_id": "P20240008",
-    "client": "BNP Paribas",
-    "industry": "Energy",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-03-03",
-    "end_date": "2024-08-30",
-    "duration_months": 6,
-    "sales_month": 3,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Project Manager",
-      "Project Manager",
-      "Senior Consultant",
-      "Business Analyst",
-      "Manager",
-      "Project Manager",
-      "Cloud Architect"
-    ],
-    "revenue": 1643259.13,
-    "profit": 335939.17,
-    "profit_margin": 0.2
-  },
-  {
-    "project_id": "P20240009",
-    "client": "Sanofi",
-    "industry": "Energy",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-09-21",
-    "end_date": "2025-03-20",
-    "duration_months": 6,
-    "sales_month": 9,
-    "complexity": "Medium",
-    "team_size": 10,
-    "team_roles": [
-      "Project Manager",
-      "Cloud Architect",
-      "Business Analyst",
-      "Business Analyst",
-      "Senior Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Manager",
-      "Project Manager",
-      "Project Manager"
-    ],
-    "revenue": 1601342.37,
-    "profit": 323431.1,
-    "profit_margin": 0.2
-  },
-  {
-    "project_id": "P20240010",
-    "client": "Renault",
-    "industry": "Pharma",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-02-07",
-    "end_date": "2024-11-03",
-    "duration_months": 9,
-    "sales_month": 2,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Business Analyst",
-      "Cloud Architect",
-      "Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Business Analyst",
-      "Manager",
-      "Cloud Architect"
-    ],
-    "revenue": 1389152.95,
-    "profit": 319092.23,
-    "profit_margin": 0.23
-  },
-  {
-    "project_id": "P20240011",
-    "client": "TotalEnergies",
-    "industry": "Pharma",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-11-28",
-    "end_date": "2025-02-26",
-    "duration_months": 3,
-    "sales_month": 11,
-    "complexity": "High",
-    "team_size": 3,
-    "team_roles": [
-      "Manager",
-      "Manager",
-      "Senior Consultant"
-    ],
-    "revenue": 2326499.96,
-    "profit": 330863.79,
-    "profit_margin": 0.14
-  },
-  {
-    "project_id": "P20240012",
-    "client": "SNCF",
-    "industry": "Retail",
-    "is_repeat_client": true,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-03-15",
-    "end_date": "2024-12-10",
-    "duration_months": 9,
-    "sales_month": 3,
-    "complexity": "Low",
-    "team_size": 7,
-    "team_roles": [
-      "Manager",
-      "Cloud Architect",
-      "Project Manager",
-      "Cloud Architect",
-      "Cloud Architect",
-      "Manager",
-      "Senior Consultant"
-    ],
-    "revenue": 1633933.78,
-    "profit": 538229.83,
-    "profit_margin": 0.33
-  },
-  {
-    "project_id": "P20240013",
-    "client": "TotalEnergies",
-    "industry": "Insurance",
-    "is_repeat_client": true,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-09-26",
-    "end_date": "2025-09-21",
-    "duration_months": 12,
-    "sales_month": 9,
-    "complexity": "Low",
-    "team_size": 6,
-    "team_roles": [
-      "Senior Consultant",
-      "Business Analyst",
-      "Consultant",
-      "Project Manager",
-      "Cloud Architect",
-      "Business Analyst"
-    ],
-    "revenue": 1705324.95,
-    "profit": 450086.72,
-    "profit_margin": 0.26
-  },
-  {
-    "project_id": "P20240014",
-    "client": "AXA",
-    "industry": "Energy",
-    "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-07-14",
-    "end_date": "2025-04-10",
-    "duration_months": 9,
-    "sales_month": 7,
-    "complexity": "High",
-    "team_size": 12,
-    "team_roles": [
-      "Data Scientist",
-      "Senior Consultant",
-      "Project Manager",
-      "Cloud Architect",
-      "Project Manager",
-      "Business Analyst",
-      "Project Manager",
-      "Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Manager",
-      "Consultant"
-    ],
-    "revenue": 2195582.52,
-    "profit": 476559.07,
-    "profit_margin": 0.22
-  },
-  {
-    "project_id": "P20240015",
-    "client": "La Poste",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-09-21",
-    "end_date": "2024-12-20",
-    "duration_months": 3,
-    "sales_month": 9,
-    "complexity": "High",
-    "team_size": 7,
-    "team_roles": [
-      "Project Manager",
-      "Senior Consultant",
-      "Project Manager",
-      "Project Manager",
-      "Project Manager",
-      "Manager",
-      "Project Manager"
-    ],
-    "revenue": 507675.99,
-    "profit": 142917.11,
-    "profit_margin": 0.28
-  },
-  {
-    "project_id": "P20240016",
-    "client": "Renault",
-    "industry": "Banking",
-    "is_repeat_client": true,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-06-26",
-    "end_date": "2025-06-21",
-    "duration_months": 12,
-    "sales_month": 6,
-    "complexity": "High",
-    "team_size": 9,
-    "team_roles": [
-      "Cloud Architect",
-      "Business Analyst",
-      "Manager",
-      "Senior Consultant",
-      "Senior Consultant",
-      "Manager",
-      "Business Analyst",
-      "Business Analyst",
-      "Senior Consultant"
-    ],
-    "revenue": 2025594.2,
-    "profit": 601488.38,
-    "profit_margin": 0.3
-  },
-  {
-    "project_id": "P20240017",
-    "client": "SNCF",
-    "industry": "Retail",
-    "is_repeat_client": false,
-    "project_type": "Cloud Migration",
-    "start_date": "2024-01-12",
-    "end_date": "2024-07-10",
-    "duration_months": 6,
-    "sales_month": 1,
-    "complexity": "Medium",
-    "team_size": 6,
-    "team_roles": [
-      "Senior Consultant",
-      "Cloud Architect",
-      "Manager",
-      "Cloud Architect",
-      "Senior Consultant",
-      "Cloud Architect"
-    ],
-    "revenue": 1762462.67,
-    "profit": 337143.25,
-    "profit_margin": 0.19
-  },
-  {
-    "project_id": "P20240018",
-    "client": "AXA",
-    "industry": "Banking",
-    "is_repeat_client": false,
-    "project_type": "Data Analytics",
     "start_date": "2024-04-23",
     "end_date": "2024-10-20",
     "duration_months": 6,
     "sales_month": 4,
     "complexity": "High",
-    "team_size": 10,
-    "team_roles": [
-      "Data Scientist",
-      "Consultant",
-      "Business Analyst",
-      "Business Analyst",
-      "Senior Consultant",
-      "Data Scientist",
-      "Manager",
-      "Senior Consultant",
-      "Business Analyst",
-      "Data Scientist"
-    ],
-    "revenue": 141868.43,
-    "profit": 35753.39,
-    "profit_margin": 0.25
-  },
-  {
-    "project_id": "P20240019",
-    "client": "Veolia",
-    "industry": "Public Sector",
-    "is_repeat_client": true,
-    "project_type": "Cybersecurity Audit",
-    "start_date": "2024-08-09",
-    "end_date": "2024-11-07",
-    "duration_months": 3,
-    "sales_month": 8,
-    "complexity": "Medium",
-    "team_size": 3,
-    "team_roles": [
-      "Manager",
-      "Cloud Architect",
-      "Cloud Architect"
-    ],
-    "revenue": 400500.22,
-    "profit": 118054.03,
-    "profit_margin": 0.29
-  },
-  {
-    "project_id": "P20240020",
-    "client": "Carrefour",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-04-02",
-    "end_date": "2024-07-01",
-    "duration_months": 3,
-    "sales_month": 4,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Cloud Architect",
-      "Consultant",
-      "Data Scientist",
-      "Data Scientist",
-      "Data Scientist"
-    ],
-    "revenue": 588494.25,
-    "profit": 147377.88,
-    "profit_margin": 0.25
-  },
-  {
-    "project_id": "P20240021",
-    "client": "EDF",
-    "industry": "Telecom",
-    "is_repeat_client": true,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-05-08",
-    "end_date": "2025-05-03",
-    "duration_months": 12,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Consultant",
-      "Cloud Architect",
-      "Project Manager",
-      "Senior Consultant",
-      "Consultant",
-      "Project Manager",
-      "Business Analyst",
-      "Senior Consultant"
-    ],
-    "revenue": 984342.09,
-    "profit": 246377.16,
-    "profit_margin": 0.25
-  },
-  {
-    "project_id": "P20240022",
-    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "industry": "Banking",
-    "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-09-18",
-    "end_date": "2025-03-17",
-    "duration_months": 6,
-    "sales_month": 9,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Business Analyst",
-      "Business Analyst",
-      "Manager",
-      "Senior Consultant",
-      "Project Manager",
-      "Project Manager",
-      "Project Manager",
-      "Manager"
-    ],
-    "revenue": 1666033.07,
-    "profit": 379635.0,
-    "profit_margin": 0.23
-  },
-  {
-    "project_id": "P20240023",
-    "client": "EDF",
-    "industry": "Banking",
-    "is_repeat_client": true,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-09-18",
-    "end_date": "2025-06-15",
-    "duration_months": 9,
-    "sales_month": 9,
-    "complexity": "Medium",
-    "team_size": 3,
-    "team_roles": [
-      "Cloud Architect",
-      "Cloud Architect",
-      "Data Scientist"
-    ],
-    "revenue": 581705.99,
-    "profit": 109201.96,
-    "profit_margin": 0.19
-  },
-  {
-    "project_id": "P20240024",
-    "client": "Orange",
-    "industry": "Public Sector",
-    "is_repeat_client": false,
-    "project_type": "Cloud Migration",
-    "start_date": "2024-05-13",
-    "end_date": "2024-11-09",
-    "duration_months": 6,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Manager",
-      "Senior Consultant",
-      "Project Manager",
-      "Business Analyst",
-      "Manager",
-      "Cloud Architect",
-      "Project Manager"
-    ],
-    "revenue": 1052159.96,
-    "profit": 250840.82,
-    "profit_margin": 0.24
-  },
-  {
-    "project_id": "P20240025",
-    "client": "L'Or\u00e9al",
-    "industry": "Transport",
-    "is_repeat_client": true,
-    "project_type": "Cloud Migration",
-    "start_date": "2024-04-28",
-    "end_date": "2024-10-25",
-    "duration_months": 6,
-    "sales_month": 4,
-    "complexity": "Medium",
-    "team_size": 12,
-    "team_roles": [
-      "Cloud Architect",
-      "Manager",
-      "Business Analyst",
-      "Cloud Architect",
-      "Senior Consultant",
-      "Consultant",
-      "Senior Consultant",
-      "Consultant",
-      "Cloud Architect",
-      "Manager",
-      "Data Scientist",
-      "Consultant"
-    ],
-    "revenue": 1663161.78,
-    "profit": 498808.26,
-    "profit_margin": 0.3
-  },
-  {
-    "project_id": "P20240026",
-    "client": "L'Or\u00e9al",
-    "industry": "Retail",
-    "is_repeat_client": true,
-    "project_type": "Cloud Migration",
-    "start_date": "2024-04-11",
-    "end_date": "2024-10-08",
-    "duration_months": 6,
-    "sales_month": 4,
-    "complexity": "Low",
-    "team_size": 10,
-    "team_roles": [
-      "Manager",
-      "Consultant",
-      "Consultant",
-      "Manager",
-      "Manager",
-      "Manager",
-      "Project Manager",
-      "Cloud Architect",
-      "Consultant",
-      "Business Analyst"
-    ],
-    "revenue": 1571818.36,
-    "profit": 389047.88,
-    "profit_margin": 0.25
-  },
-  {
-    "project_id": "P20240027",
-    "client": "L'Or\u00e9al",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-05-20",
-    "end_date": "2024-08-18",
-    "duration_months": 3,
-    "sales_month": 5,
-    "complexity": "Low",
-    "team_size": 8,
-    "team_roles": [
-      "Business Analyst",
-      "Cloud Architect",
-      "Manager",
-      "Business Analyst",
-      "Manager",
-      "Manager",
-      "Cloud Architect",
-      "Data Scientist"
-    ],
-    "revenue": 1728480.73,
-    "profit": 376770.82,
-    "profit_margin": 0.22
-  },
-  {
-    "project_id": "P20240028",
-    "client": "Veolia",
-    "industry": "Energy",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-03-23",
-    "end_date": "2024-09-19",
-    "duration_months": 6,
-    "sales_month": 3,
-    "complexity": "Low",
-    "team_size": 5,
-    "team_roles": [
-      "Data Scientist",
-      "Business Analyst",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Cloud Architect"
-    ],
-    "revenue": 373730.77,
-    "profit": 112795.04,
-    "profit_margin": 0.3
-  },
-  {
-    "project_id": "P20240029",
-    "client": "Carrefour",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-01-26",
-    "end_date": "2024-07-24",
-    "duration_months": 6,
-    "sales_month": 1,
-    "complexity": "Medium",
-    "team_size": 5,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Senior Consultant",
-      "Business Analyst",
-      "Manager"
-    ],
-    "revenue": 1185479.57,
-    "profit": 279265.96,
-    "profit_margin": 0.24
-  },
-  {
-    "project_id": "P20240030",
-    "client": "EDF",
-    "industry": "Banking",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-04-26",
-    "end_date": "2024-07-25",
-    "duration_months": 3,
-    "sales_month": 4,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Business Analyst",
-      "Manager",
-      "Project Manager",
-      "Cloud Architect",
-      "Data Scientist"
-    ],
-    "revenue": 648823.81,
-    "profit": 225431.54,
-    "profit_margin": 0.35
-  },
-  {
-    "project_id": "P20240031",
-    "client": "Orange",
-    "industry": "Pharma",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-07-10",
-    "end_date": "2025-01-06",
-    "duration_months": 6,
-    "sales_month": 7,
-    "complexity": "High",
     "team_size": 9,
     "team_roles": [
-      "Business Analyst",
-      "Business Analyst",
-      "Data Scientist",
-      "Consultant",
-      "Business Analyst",
-      "Manager",
-      "Data Scientist",
-      "Senior Consultant",
-      "Consultant"
+      {
+        "role": "Cloud Architect",
+        "years_experience": 12.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 12.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 14.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 2.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.7
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 9.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.7
+      },
+      {
+        "role": "Manager",
+        "years_experience": 8.5
+      }
     ],
-    "revenue": 1037252.35,
-    "profit": 147107.2,
-    "profit_margin": 0.14
-  },
-  {
-    "project_id": "P20240032",
-    "client": "ENGIE",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-02-22",
-    "end_date": "2024-08-20",
-    "duration_months": 6,
-    "sales_month": 2,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Business Analyst",
-      "Data Scientist",
-      "Business Analyst",
-      "Project Manager",
-      "Senior Consultant",
-      "Manager",
-      "Consultant"
+    "locations": [
+      "Paris"
     ],
-    "revenue": 589654.3,
-    "profit": 116541.88,
-    "profit_margin": 0.2
-  },
-  {
-    "project_id": "P20240033",
-    "client": "AXA",
-    "industry": "Banking",
-    "is_repeat_client": true,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-05-19",
-    "end_date": "2025-02-13",
-    "duration_months": 9,
-    "sales_month": 5,
-    "complexity": "High",
-    "team_size": 10,
-    "team_roles": [
-      "Senior Consultant",
-      "Project Manager",
-      "Cloud Architect",
-      "Consultant",
-      "Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Project Manager",
-      "Manager",
-      "Data Scientist"
-    ],
-    "revenue": 715752.79,
-    "profit": 113359.15,
-    "profit_margin": 0.16
-  },
-  {
-    "project_id": "P20240034",
-    "client": "Orange",
-    "industry": "Retail",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-06-05",
-    "end_date": "2024-12-02",
-    "duration_months": 6,
-    "sales_month": 6,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Consultant",
-      "Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Project Manager",
-      "Cloud Architect",
-      "Consultant",
-      "Data Scientist"
-    ],
-    "revenue": 747158.4,
-    "profit": 216492.58,
-    "profit_margin": 0.29
-  },
-  {
-    "project_id": "P20240035",
-    "client": "Orange",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "Data Analytics",
-    "start_date": "2024-07-28",
-    "end_date": "2024-10-26",
-    "duration_months": 3,
-    "sales_month": 7,
-    "complexity": "High",
-    "team_size": 8,
-    "team_roles": [
-      "Manager",
-      "Manager",
-      "Manager",
-      "Data Scientist",
-      "Consultant",
-      "Project Manager",
-      "Consultant",
-      "Project Manager"
-    ],
-    "revenue": 368901.89,
-    "profit": 78630.24,
-    "profit_margin": 0.21
-  },
-  {
-    "project_id": "P20240036",
-    "client": "Airbus",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-02-22",
-    "end_date": "2024-11-18",
-    "duration_months": 9,
-    "sales_month": 2,
-    "complexity": "High",
-    "team_size": 3,
-    "team_roles": [
-      "Manager",
-      "Manager",
-      "Project Manager"
-    ],
-    "revenue": 1754642.34,
-    "profit": 342006.52,
-    "profit_margin": 0.19
-  },
-  {
-    "project_id": "P20240037",
-    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "industry": "Pharma",
-    "is_repeat_client": false,
-    "project_type": "Cybersecurity Audit",
-    "start_date": "2024-09-27",
-    "end_date": "2025-03-26",
-    "duration_months": 6,
-    "sales_month": 9,
-    "complexity": "Medium",
-    "team_size": 9,
-    "team_roles": [
-      "Project Manager",
-      "Data Scientist",
-      "Consultant",
-      "Business Analyst",
-      "Project Manager",
-      "Business Analyst",
-      "Senior Consultant",
-      "Data Scientist",
-      "Consultant"
-    ],
-    "revenue": 432476.07,
-    "profit": 128040.93,
-    "profit_margin": 0.3
-  },
-  {
-    "project_id": "P20240038",
-    "client": "L'Or\u00e9al",
-    "industry": "Retail",
-    "is_repeat_client": true,
-    "project_type": "Cybersecurity Audit",
-    "start_date": "2024-04-22",
-    "end_date": "2024-10-19",
-    "duration_months": 6,
-    "sales_month": 4,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Data Scientist",
-      "Data Scientist",
-      "Manager",
-      "Cloud Architect",
-      "Cloud Architect",
-      "Consultant",
-      "Manager",
-      "Data Scientist"
-    ],
-    "revenue": 405695.45,
-    "profit": 137584.97,
-    "profit_margin": 0.34
-  },
-  {
-    "project_id": "P20240039",
-    "client": "Airbus",
-    "industry": "Public Sector",
-    "is_repeat_client": false,
-    "project_type": "Process Optimization",
-    "start_date": "2024-08-22",
-    "end_date": "2025-02-18",
-    "duration_months": 6,
-    "sales_month": 8,
-    "complexity": "Low",
-    "team_size": 9,
-    "team_roles": [
-      "Cloud Architect",
-      "Manager",
-      "Project Manager",
-      "Manager",
-      "Project Manager",
-      "Project Manager",
-      "Senior Consultant",
-      "Business Analyst",
-      "Project Manager"
-    ],
-    "revenue": 1494392.32,
-    "profit": 435146.41,
-    "profit_margin": 0.29
-  },
-  {
-    "project_id": "P20240040",
-    "client": "ENGIE",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-06-16",
-    "end_date": "2024-12-13",
-    "duration_months": 6,
-    "sales_month": 6,
-    "complexity": "High",
-    "team_size": 3,
-    "team_roles": [
-      "Senior Consultant",
-      "Project Manager",
-      "Data Scientist"
-    ],
-    "revenue": 2197047.59,
-    "profit": 572356.32,
-    "profit_margin": 0.26
-  },
-  {
-    "project_id": "P20240041",
-    "client": "EDF",
-    "industry": "Pharma",
-    "is_repeat_client": true,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-01-14",
-    "end_date": "2024-07-12",
-    "duration_months": 6,
-    "sales_month": 1,
-    "complexity": "Low",
-    "team_size": 9,
-    "team_roles": [
-      "Cloud Architect",
-      "Cloud Architect",
-      "Data Scientist",
-      "Business Analyst",
-      "Business Analyst",
-      "Manager",
-      "Senior Consultant",
-      "Consultant",
-      "Senior Consultant"
-    ],
-    "revenue": 1468443.14,
-    "profit": 499574.17,
-    "profit_margin": 0.34
-  },
-  {
-    "project_id": "P20240042",
-    "client": "ENGIE",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-07-15",
-    "end_date": "2025-04-11",
-    "duration_months": 9,
-    "sales_month": 7,
-    "complexity": "Medium",
-    "team_size": 8,
-    "team_roles": [
-      "Consultant",
-      "Consultant",
-      "Cloud Architect",
-      "Data Scientist",
-      "Project Manager",
-      "Cloud Architect",
-      "Cloud Architect",
-      "Manager"
-    ],
-    "revenue": 183452.06,
-    "profit": 40514.49,
-    "profit_margin": 0.22
-  },
-  {
-    "project_id": "P20240043",
-    "client": "BNP Paribas",
-    "industry": "Retail",
-    "is_repeat_client": true,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-03-05",
-    "end_date": "2025-02-28",
-    "duration_months": 12,
-    "sales_month": 3,
-    "complexity": "High",
-    "team_size": 5,
-    "team_roles": [
-      "Senior Consultant",
-      "Business Analyst",
-      "Business Analyst",
-      "Business Analyst",
-      "Cloud Architect"
-    ],
-    "revenue": 1220526.73,
-    "profit": 343546.69,
-    "profit_margin": 0.28
-  },
-  {
-    "project_id": "P20240044",
-    "client": "EDF",
-    "industry": "Energy",
-    "is_repeat_client": true,
-    "project_type": "Process Optimization",
-    "start_date": "2024-03-09",
-    "end_date": "2024-09-05",
-    "duration_months": 6,
-    "sales_month": 3,
-    "complexity": "Low",
-    "team_size": 3,
-    "team_roles": [
-      "Consultant",
-      "Project Manager",
-      "Data Scientist"
-    ],
-    "revenue": 194094.41,
-    "profit": 49840.85,
-    "profit_margin": 0.26
-  },
-  {
-    "project_id": "P20240045",
-    "client": "BNP Paribas",
-    "industry": "Pharma",
-    "is_repeat_client": true,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-06-15",
-    "end_date": "2024-12-12",
-    "duration_months": 6,
-    "sales_month": 6,
-    "complexity": "Medium",
-    "team_size": 6,
-    "team_roles": [
-      "Cloud Architect",
-      "Project Manager",
-      "Project Manager",
-      "Cloud Architect",
-      "Business Analyst",
-      "Senior Consultant"
-    ],
-    "revenue": 705127.0,
-    "profit": 162015.99,
-    "profit_margin": 0.23
-  },
-  {
-    "project_id": "P20240046",
-    "client": "ENGIE",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-04-12",
-    "end_date": "2025-04-07",
-    "duration_months": 12,
-    "sales_month": 4,
-    "complexity": "Low",
-    "team_size": 3,
-    "team_roles": [
-      "Manager",
-      "Manager",
-      "Manager"
-    ],
-    "revenue": 1096241.39,
-    "profit": 201924.6,
+    "status": "Ongoing",
+    "client_complaints": 1,
+    "revenue": 678830.42,
+    "profit": 121571.26,
     "profit_margin": 0.18
   },
   {
-    "project_id": "P20240047",
-    "client": "EDF",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-03-22",
-    "end_date": "2024-06-20",
-    "duration_months": 3,
-    "sales_month": 3,
-    "complexity": "Low",
-    "team_size": 3,
-    "team_roles": [
-      "Data Scientist",
-      "Business Analyst",
-      "Senior Consultant"
-    ],
-    "revenue": 1892106.61,
-    "profit": 471774.54,
-    "profit_margin": 0.25
-  },
-  {
-    "project_id": "P20240048",
-    "client": "Airbus",
-    "industry": "Pharma",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-05-26",
-    "end_date": "2024-11-22",
-    "duration_months": 6,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 10,
-    "team_roles": [
-      "Data Scientist",
-      "Data Scientist",
-      "Data Scientist",
-      "Business Analyst",
-      "Manager",
-      "Consultant",
-      "Manager",
-      "Data Scientist",
-      "Senior Consultant",
-      "Data Scientist"
-    ],
-    "revenue": 2439225.84,
-    "profit": 445548.11,
-    "profit_margin": 0.18
-  },
-  {
-    "project_id": "P20240049",
-    "client": "TotalEnergies",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "Digital Transformation",
-    "start_date": "2024-01-21",
-    "end_date": "2024-07-19",
-    "duration_months": 6,
-    "sales_month": 1,
-    "complexity": "High",
-    "team_size": 11,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Project Manager",
-      "Senior Consultant",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Consultant",
-      "Business Analyst",
-      "Senior Consultant",
-      "Data Scientist",
-      "Data Scientist"
-    ],
-    "revenue": 444671.57,
-    "profit": 90216.75,
-    "profit_margin": 0.2
-  },
-  {
-    "project_id": "P20240050",
-    "client": "Carrefour",
-    "industry": "Transport",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-05-28",
-    "end_date": "2024-11-24",
-    "duration_months": 6,
-    "sales_month": 5,
-    "complexity": "High",
-    "team_size": 6,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Manager",
-      "Data Scientist",
-      "Business Analyst",
-      "Project Manager"
-    ],
-    "revenue": 491757.59,
-    "profit": 94035.25,
-    "profit_margin": 0.19
-  },
-  {
-    "project_id": "P20240051",
-    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "industry": "Retail",
-    "is_repeat_client": false,
-    "project_type": "Cybersecurity Audit",
-    "start_date": "2024-09-21",
-    "end_date": "2025-09-16",
-    "duration_months": 12,
-    "sales_month": 9,
-    "complexity": "Low",
-    "team_size": 10,
-    "team_roles": [
-      "Senior Consultant",
-      "Project Manager",
-      "Project Manager",
-      "Business Analyst",
-      "Consultant",
-      "Data Scientist",
-      "Cloud Architect",
-      "Data Scientist",
-      "Senior Consultant",
-      "Data Scientist"
-    ],
-    "revenue": 232938.78,
-    "profit": 79514.67,
-    "profit_margin": 0.34
-  },
-  {
-    "project_id": "P20240052",
+    "project_id": "P20240002",
     "client": "SNCF",
-    "industry": "Telecom",
-    "is_repeat_client": false,
-    "project_type": "Data Analytics",
-    "start_date": "2024-01-05",
-    "end_date": "2024-04-04",
-    "duration_months": 3,
-    "sales_month": 1,
-    "complexity": "Medium",
-    "team_size": 4,
-    "team_roles": [
-      "Data Scientist",
-      "Business Analyst",
-      "Cloud Architect",
-      "Cloud Architect"
-    ],
-    "revenue": 1289964.84,
-    "profit": 438120.05,
-    "profit_margin": 0.34
-  },
-  {
-    "project_id": "P20240053",
-    "client": "BNP Paribas",
     "industry": "Energy",
     "is_repeat_client": false,
-    "project_type": "ERP Implementation",
-    "start_date": "2024-05-05",
-    "end_date": "2024-08-03",
-    "duration_months": 3,
-    "sales_month": 5,
-    "complexity": "High",
-    "team_size": 5,
-    "team_roles": [
-      "Manager",
-      "Business Analyst",
-      "Cloud Architect",
-      "Cloud Architect",
-      "Project Manager"
-    ],
-    "revenue": 1772851.17,
-    "profit": 404030.09,
-    "profit_margin": 0.23
-  },
-  {
-    "project_id": "P20240054",
-    "client": "Orange",
-    "industry": "Insurance",
-    "is_repeat_client": false,
-    "project_type": "AI/ML Deployment",
-    "start_date": "2024-05-12",
-    "end_date": "2024-11-08",
-    "duration_months": 6,
-    "sales_month": 5,
-    "complexity": "Low",
-    "team_size": 12,
-    "team_roles": [
-      "Senior Consultant",
-      "Consultant",
-      "Manager",
-      "Business Analyst",
-      "Manager",
-      "Business Analyst",
-      "Consultant",
-      "Project Manager",
-      "Manager",
-      "Senior Consultant",
-      "Senior Consultant",
-      "Business Analyst"
-    ],
-    "revenue": 833747.9,
-    "profit": 290348.28,
-    "profit_margin": 0.35
-  },
-  {
-    "project_id": "P20240055",
-    "client": "Airbus",
-    "industry": "Telecom",
-    "is_repeat_client": true,
-    "project_type": "Cybersecurity Audit",
-    "start_date": "2024-05-23",
-    "end_date": "2025-08-16",
-    "duration_months": 15,
-    "sales_month": 5,
-    "complexity": "Medium",
-    "team_size": 7,
-    "team_roles": [
-      "Business Analyst",
-      "Consultant",
-      "Project Manager",
-      "Project Manager",
-      "Senior Consultant",
-      "Consultant",
-      "Cloud Architect"
-    ],
-    "revenue": 587586.36,
-    "profit": 192344.41,
-    "profit_margin": 0.33
-  },
-  {
-    "project_id": "P20240056",
-    "client": "La Poste",
-    "industry": "Transport",
-    "is_repeat_client": true,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-07-24",
-    "end_date": "2025-01-20",
-    "duration_months": 6,
-    "sales_month": 7,
-    "complexity": "Low",
-    "team_size": 6,
-    "team_roles": [
-      "Cloud Architect",
-      "Senior Consultant",
-      "Project Manager",
-      "Business Analyst",
-      "Manager",
-      "Business Analyst"
-    ],
-    "revenue": 976537.79,
-    "profit": 276975.92,
-    "profit_margin": 0.28
-  },
-  {
-    "project_id": "P20240057",
-    "client": "AXA",
-    "industry": "Retail",
-    "is_repeat_client": false,
-    "project_type": "IT Outsourcing",
-    "start_date": "2024-06-23",
-    "end_date": "2025-03-20",
-    "duration_months": 9,
-    "sales_month": 6,
-    "complexity": "Low",
-    "team_size": 5,
-    "team_roles": [
-      "Project Manager",
-      "Manager",
-      "Project Manager",
-      "Cloud Architect",
-      "Senior Consultant"
-    ],
-    "revenue": 322350.34,
-    "profit": 97729.98,
-    "profit_margin": 0.3
-  },
-  {
-    "project_id": "P20240058",
-    "client": "Veolia",
-    "industry": "Public Sector",
-    "is_repeat_client": false,
-    "project_type": "Data Analytics",
-    "start_date": "2024-11-17",
-    "end_date": "2025-05-16",
+    "project_type": "Cloud Migration",
+    "start_date": "2024-11-28",
+    "end_date": "2025-05-27",
     "duration_months": 6,
     "sales_month": 11,
     "complexity": "Medium",
     "team_size": 8,
     "team_roles": [
-      "Business Analyst",
-      "Manager",
-      "Consultant",
-      "Senior Consultant",
-      "Data Scientist",
-      "Project Manager",
-      "Data Scientist",
-      "Senior Consultant"
+      {
+        "role": "Consultant",
+        "years_experience": 1.8
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 7.6
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 8.3
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 11.6
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 9.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 4.6
+      }
     ],
-    "revenue": 598964.22,
-    "profit": 187735.76,
+    "locations": [
+      "Lyon"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1403197.53,
+    "profit": 386084.47,
+    "profit_margin": 0.28
+  },
+  {
+    "project_id": "P20240003",
+    "client": "Airbus",
+    "industry": "Pharma",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-04-24",
+    "end_date": "2025-07-18",
+    "duration_months": 15,
+    "sales_month": 4,
+    "complexity": "Low",
+    "team_size": 10,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.3
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 13.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 4.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 2.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 10.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.3
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 13.7
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 818029.98,
+    "profit": 253901.53,
     "profit_margin": 0.31
   },
   {
-    "project_id": "P20240059",
+    "project_id": "P20240004",
+    "client": "ENGIE",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-04-22",
+    "end_date": "2024-07-21",
+    "duration_months": 3,
+    "sales_month": 4,
+    "complexity": "Low",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 10.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 13.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 7.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.2
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.4
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 2.9
+      }
+    ],
+    "locations": [
+      "Lyon"
+    ],
+    "status": "Delayed",
+    "client_complaints": 3,
+    "revenue": 379696.21,
+    "profit": 119240.58,
+    "profit_margin": 0.31
+  },
+  {
+    "project_id": "P20240005",
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-09-05",
+    "end_date": "2024-12-04",
+    "duration_months": 3,
+    "sales_month": 9,
+    "complexity": "Low",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 1.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 10.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 11.9
+      }
+    ],
+    "locations": [
+      "Toulouse",
+      "Lyon",
+      "Bordeaux"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 2256371.04,
+    "profit": 439847.4,
+    "profit_margin": 0.19
+  },
+  {
+    "project_id": "P20240006",
+    "client": "ENGIE",
+    "industry": "Insurance",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-06-19",
+    "end_date": "2024-12-16",
+    "duration_months": 6,
+    "sales_month": 6,
+    "complexity": "Medium",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.4
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 6.5
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 5.7
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.6
+      }
+    ],
+    "locations": [
+      "Nantes",
+      "Paris",
+      "Lille"
+    ],
+    "status": "Delayed",
+    "client_complaints": 0,
+    "revenue": 960351.57,
+    "profit": 308896.82,
+    "profit_margin": 0.32
+  },
+  {
+    "project_id": "P20240007",
+    "client": "L'Or\u00e9al",
+    "industry": "Insurance",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-15",
+    "end_date": "2024-09-11",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Low",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 13.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.9
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 12.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 7.0
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 5.6
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 2.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.0
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 2,
+    "revenue": 770279.5,
+    "profit": 264062.57,
+    "profit_margin": 0.34
+  },
+  {
+    "project_id": "P20240008",
+    "client": "SNCF",
+    "industry": "Telecom",
+    "is_repeat_client": false,
+    "project_type": "IT Outsourcing",
+    "start_date": "2024-08-09",
+    "end_date": "2025-02-05",
+    "duration_months": 6,
+    "sales_month": 8,
+    "complexity": "High",
+    "team_size": 4,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 11.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.5
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 11.5
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 458335.3,
+    "profit": 135689.77,
+    "profit_margin": 0.3
+  },
+  {
+    "project_id": "P20240009",
+    "client": "BNP Paribas",
+    "industry": "Retail",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-07-10",
+    "end_date": "2025-01-06",
+    "duration_months": 6,
+    "sales_month": 7,
+    "complexity": "Medium",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Manager",
+        "years_experience": 4.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 13.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 6.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.8
+      }
+    ],
+    "locations": [
+      "Bordeaux"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1382860.93,
+    "profit": 423351.98,
+    "profit_margin": 0.31
+  },
+  {
+    "project_id": "P20240010",
     "client": "Orange",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-05-24",
+    "end_date": "2024-11-20",
+    "duration_months": 6,
+    "sales_month": 5,
+    "complexity": "Low",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 5.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 6.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.6
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 2.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 10.4
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 9.5
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Nantes",
+      "Paris"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 379456.45,
+    "profit": 71587.73,
+    "profit_margin": 0.19
+  },
+  {
+    "project_id": "P20240011",
+    "client": "Carrefour",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-09-26",
+    "end_date": "2025-06-23",
+    "duration_months": 9,
+    "sales_month": 9,
+    "complexity": "Low",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 4.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.1
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 8.0
+      }
+    ],
+    "locations": [
+      "Nantes"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 2234995.47,
+    "profit": 592664.87,
+    "profit_margin": 0.27
+  },
+  {
+    "project_id": "P20240012",
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "industry": "Pharma",
+    "is_repeat_client": true,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-06-04",
+    "end_date": "2025-08-28",
+    "duration_months": 15,
+    "sales_month": 6,
+    "complexity": "High",
+    "team_size": 6,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 4.4
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 6.6
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 10.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 4.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 2.8
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.7
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1937595.65,
+    "profit": 315073.11,
+    "profit_margin": 0.16
+  },
+  {
+    "project_id": "P20240013",
+    "client": "La Poste",
+    "industry": "Banking",
     "is_repeat_client": false,
     "project_type": "Process Optimization",
-    "start_date": "2024-07-28",
-    "end_date": "2025-04-24",
-    "duration_months": 9,
-    "sales_month": 7,
+    "start_date": "2024-01-05",
+    "end_date": "2024-07-03",
+    "duration_months": 6,
+    "sales_month": 1,
     "complexity": "Medium",
     "team_size": 11,
     "team_roles": [
-      "Business Analyst",
-      "Business Analyst",
-      "Senior Consultant",
-      "Cloud Architect",
-      "Manager",
-      "Cloud Architect",
-      "Manager",
-      "Cloud Architect",
-      "Senior Consultant",
-      "Project Manager",
-      "Consultant"
+      {
+        "role": "Data Scientist",
+        "years_experience": 1.7
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.6
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 10.9
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 10.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.0
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 14.1
+      }
     ],
-    "revenue": 967858.18,
-    "profit": 226246.34,
+    "locations": [
+      "Paris",
+      "Marseille",
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 2240046.54,
+    "profit": 551713.83,
+    "profit_margin": 0.25
+  },
+  {
+    "project_id": "P20240014",
+    "client": "SNCF",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-05-24",
+    "end_date": "2024-11-20",
+    "duration_months": 6,
+    "sales_month": 5,
+    "complexity": "Medium",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 6.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 10.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 7.1
+      }
+    ],
+    "locations": [
+      "Nantes",
+      "Bordeaux",
+      "Marseille"
+    ],
+    "status": "Delayed",
+    "client_complaints": 0,
+    "revenue": 1583921.0,
+    "profit": 457696.93,
+    "profit_margin": 0.29
+  },
+  {
+    "project_id": "P20240015",
+    "client": "TotalEnergies",
+    "industry": "Insurance",
+    "is_repeat_client": false,
+    "project_type": "IT Outsourcing",
+    "start_date": "2024-02-23",
+    "end_date": "2024-11-19",
+    "duration_months": 9,
+    "sales_month": 2,
+    "complexity": "High",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 1.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 13.3
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 11.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.5
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Toulouse"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 1071134.84,
+    "profit": 140468.65,
+    "profit_margin": 0.13
+  },
+  {
+    "project_id": "P20240016",
+    "client": "SNCF",
+    "industry": "Banking",
+    "is_repeat_client": true,
+    "project_type": "Cybersecurity Audit",
+    "start_date": "2024-02-09",
+    "end_date": "2024-08-07",
+    "duration_months": 6,
+    "sales_month": 2,
+    "complexity": "Medium",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.7
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 13.3
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 13.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 10.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 7.4
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Paris",
+      "Lyon"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 1,
+    "revenue": 1739916.21,
+    "profit": 574072.81,
+    "profit_margin": 0.33
+  },
+  {
+    "project_id": "P20240017",
+    "client": "Veolia",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Process Optimization",
+    "start_date": "2024-03-17",
+    "end_date": "2024-09-13",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Medium",
+    "team_size": 8,
+    "team_roles": [
+      {
+        "role": "Senior Consultant",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 2.6
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 11.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 2.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 4.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.5
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1462638.1,
+    "profit": 339903.47,
     "profit_margin": 0.23
+  },
+  {
+    "project_id": "P20240018",
+    "client": "Carrefour",
+    "industry": "Public Sector",
+    "is_repeat_client": true,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-07-10",
+    "end_date": "2025-04-06",
+    "duration_months": 9,
+    "sales_month": 7,
+    "complexity": "Medium",
+    "team_size": 8,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 11.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 8.4
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 4.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.9
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 586412.91,
+    "profit": 132982.29,
+    "profit_margin": 0.23
+  },
+  {
+    "project_id": "P20240019",
+    "client": "AXA",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "IT Outsourcing",
+    "start_date": "2024-12-21",
+    "end_date": "2025-09-17",
+    "duration_months": 9,
+    "sales_month": 12,
+    "complexity": "Low",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 8.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 14.3
+      },
+      {
+        "role": "Manager",
+        "years_experience": 6.7
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 5.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 3.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.4
+      }
+    ],
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 285775.33,
+    "profit": 74271.2,
+    "profit_margin": 0.26
+  },
+  {
+    "project_id": "P20240020",
+    "client": "Veolia",
+    "industry": "Insurance",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-05-08",
+    "end_date": "2024-11-04",
+    "duration_months": 6,
+    "sales_month": 5,
+    "complexity": "Low",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.3
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1149009.94,
+    "profit": 243180.95,
+    "profit_margin": 0.21
+  },
+  {
+    "project_id": "P20240021",
+    "client": "AXA",
+    "industry": "Energy",
+    "is_repeat_client": true,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-15",
+    "end_date": "2024-06-13",
+    "duration_months": 3,
+    "sales_month": 3,
+    "complexity": "Low",
+    "team_size": 4,
+    "team_roles": [
+      {
+        "role": "Manager",
+        "years_experience": 1.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.5
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Paris"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 2215044.94,
+    "profit": 735510.39,
+    "profit_margin": 0.33
+  },
+  {
+    "project_id": "P20240022",
+    "client": "Renault",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-09-26",
+    "end_date": "2025-09-21",
+    "duration_months": 12,
+    "sales_month": 9,
+    "complexity": "Medium",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 4.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 14.0
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 2237790.85,
+    "profit": 504417.03,
+    "profit_margin": 0.23
+  },
+  {
+    "project_id": "P20240023",
+    "client": "Orange",
+    "industry": "Telecom",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-26",
+    "end_date": "2024-09-22",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "High",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Senior Consultant",
+        "years_experience": 9.8
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 7.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 6.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 6.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 14.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.0
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.6
+      }
+    ],
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 188199.53,
+    "profit": 48654.73,
+    "profit_margin": 0.26
+  },
+  {
+    "project_id": "P20240024",
+    "client": "L'Or\u00e9al",
+    "industry": "Transport",
+    "is_repeat_client": true,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-06",
+    "end_date": "2024-09-02",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Medium",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 4.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 3.4
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.3
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.2
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 5.0
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 12.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.7
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 10.2
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 11.0
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 11.9
+      }
+    ],
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Delayed",
+    "client_complaints": 0,
+    "revenue": 795550.58,
+    "profit": 156676.49,
+    "profit_margin": 0.28
+  },
+  {
+    "project_id": "P20240025",
+    "client": "Veolia",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-07-27",
+    "end_date": "2025-01-23",
+    "duration_months": 6,
+    "sales_month": 7,
+    "complexity": "Medium",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 1.1
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 4.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 8.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 10.2
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 12.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 5.7
+      }
+    ],
+    "locations": [
+      "Nantes",
+      "Toulouse"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 349553.11,
+    "profit": 107307.36,
+    "profit_margin": 0.31
+  },
+  {
+    "project_id": "P20240026",
+    "client": "Carrefour",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-10-04",
+    "end_date": "2025-09-29",
+    "duration_months": 12,
+    "sales_month": 10,
+    "complexity": "Low",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 6.1
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 13.2
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.7
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 4.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.3
+      }
+    ],
+    "locations": [
+      "Bordeaux",
+      "Lyon"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1920881.18,
+    "profit": 581132.21,
+    "profit_margin": 0.3
+  },
+  {
+    "project_id": "P20240027",
+    "client": "Veolia",
+    "industry": "Retail",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-05",
+    "end_date": "2024-06-03",
+    "duration_months": 3,
+    "sales_month": 3,
+    "complexity": "Medium",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 10.3
+      },
+      {
+        "role": "Manager",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 6.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 8.9
+      }
+    ],
+    "locations": [
+      "Lyon",
+      "Paris"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 612557.24,
+    "profit": 210549.89,
+    "profit_margin": 0.34
+  },
+  {
+    "project_id": "P20240028",
+    "client": "Carrefour",
+    "industry": "Insurance",
+    "is_repeat_client": true,
+    "project_type": "Digital Transformation",
+    "start_date": "2024-09-02",
+    "end_date": "2025-03-01",
+    "duration_months": 6,
+    "sales_month": 9,
+    "complexity": "Medium",
+    "team_size": 11,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 0.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 14.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 5.0
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 8.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 7.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 12.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 4.3
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 10.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.1
+      }
+    ],
+    "locations": [
+      "Nantes"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 2,
+    "revenue": 631323.75,
+    "profit": 146470.61,
+    "profit_margin": 0.23
+  },
+  {
+    "project_id": "P20240029",
+    "client": "Carrefour",
+    "industry": "Pharma",
+    "is_repeat_client": true,
+    "project_type": "Process Optimization",
+    "start_date": "2024-01-03",
+    "end_date": "2024-07-01",
+    "duration_months": 6,
+    "sales_month": 1,
+    "complexity": "Medium",
+    "team_size": 6,
+    "team_roles": [
+      {
+        "role": "Senior Consultant",
+        "years_experience": 1.2
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 5.3
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 6.8
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 7.6
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 11.2
+      }
+    ],
+    "locations": [
+      "Toulouse",
+      "Nantes",
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 1426708.59,
+    "profit": 404759.53,
+    "profit_margin": 0.28
+  },
+  {
+    "project_id": "P20240030",
+    "client": "Sanofi",
+    "industry": "Pharma",
+    "is_repeat_client": false,
+    "project_type": "Digital Transformation",
+    "start_date": "2024-03-24",
+    "end_date": "2024-09-20",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Medium",
+    "team_size": 11,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.7
+      },
+      {
+        "role": "Manager",
+        "years_experience": 3.1
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 6.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 13.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 8.2
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 5.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.0
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 7.9
+      }
+    ],
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 1,
+    "revenue": 1689710.6,
+    "profit": 316126.79,
+    "profit_margin": 0.19
+  },
+  {
+    "project_id": "P20240031",
+    "client": "L'Or\u00e9al",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-03-07",
+    "end_date": "2024-09-03",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Low",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 10.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 14.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.8
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 2276571.8,
+    "profit": 535043.93,
+    "profit_margin": 0.24
+  },
+  {
+    "project_id": "P20240032",
+    "client": "Veolia",
+    "industry": "Pharma",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-02-26",
+    "end_date": "2024-11-22",
+    "duration_months": 9,
+    "sales_month": 2,
+    "complexity": "Medium",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 5.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 2.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 6.6
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 13.8
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 9.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 2.5
+      }
+    ],
+    "locations": [
+      "Lyon",
+      "Paris",
+      "Nantes"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 2531637.54,
+    "profit": 561284.6,
+    "profit_margin": 0.22
+  },
+  {
+    "project_id": "P20240033",
+    "client": "AXA",
+    "industry": "Public Sector",
+    "is_repeat_client": true,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-04-12",
+    "end_date": "2024-05-12",
+    "duration_months": 1,
+    "sales_month": 4,
+    "complexity": "Medium",
+    "team_size": 11,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 4.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.7
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.6
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 8.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 12.6
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 10.0
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 2067601.51,
+    "profit": 546248.33,
+    "profit_margin": 0.26
+  },
+  {
+    "project_id": "P20240034",
+    "client": "Veolia",
+    "industry": "Transport",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-05-05",
+    "end_date": "2025-01-30",
+    "duration_months": 9,
+    "sales_month": 5,
+    "complexity": "Medium",
+    "team_size": 6,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 5.3
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 4.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 7.9
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 5.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 10.5
+      }
+    ],
+    "locations": [
+      "Nantes"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 2230903.89,
+    "profit": 697356.73,
+    "profit_margin": 0.31
+  },
+  {
+    "project_id": "P20240035",
+    "client": "L'Or\u00e9al",
+    "industry": "Insurance",
+    "is_repeat_client": true,
+    "project_type": "Cybersecurity Audit",
+    "start_date": "2024-01-17",
+    "end_date": "2024-07-15",
+    "duration_months": 6,
+    "sales_month": 1,
+    "complexity": "Low",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 12.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 5.4
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 12.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 7.0
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 749025.32,
+    "profit": 213993.89,
+    "profit_margin": 0.29
+  },
+  {
+    "project_id": "P20240036",
+    "client": "Veolia",
+    "industry": "Insurance",
+    "is_repeat_client": true,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-09-18",
+    "end_date": "2025-03-17",
+    "duration_months": 6,
+    "sales_month": 9,
+    "complexity": "Medium",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 11.4
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 4.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 14.5
+      }
+    ],
+    "locations": [
+      "Toulouse"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 2,
+    "revenue": 1511256.83,
+    "profit": 284027.79,
+    "profit_margin": 0.19
+  },
+  {
+    "project_id": "P20240037",
+    "client": "AXA",
+    "industry": "Transport",
+    "is_repeat_client": true,
+    "project_type": "Digital Transformation",
+    "start_date": "2024-08-22",
+    "end_date": "2025-02-18",
+    "duration_months": 6,
+    "sales_month": 8,
+    "complexity": "Medium",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 2.5
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.7
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 1255919.68,
+    "profit": 229332.77,
+    "profit_margin": 0.18
+  },
+  {
+    "project_id": "P20240038",
+    "client": "Carrefour",
+    "industry": "Pharma",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-02-25",
+    "end_date": "2025-05-20",
+    "duration_months": 15,
+    "sales_month": 2,
+    "complexity": "Medium",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 13.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.2
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 5.2
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 2.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 13.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.4
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.4
+      }
+    ],
+    "locations": [
+      "Marseille",
+      "Bordeaux",
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 562885.82,
+    "profit": 87596.49,
+    "profit_margin": 0.22
+  },
+  {
+    "project_id": "P20240039",
+    "client": "ENGIE",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-09-09",
+    "end_date": "2025-12-03",
+    "duration_months": 15,
+    "sales_month": 9,
+    "complexity": "Medium",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Manager",
+        "years_experience": 6.7
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 11.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 4.3
+      }
+    ],
+    "locations": [
+      "Bordeaux",
+      "Lyon",
+      "Toulouse"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1404278.67,
+    "profit": 270315.75,
+    "profit_margin": 0.19
+  },
+  {
+    "project_id": "P20240040",
+    "client": "SNCF",
+    "industry": "Telecom",
+    "is_repeat_client": true,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-05-24",
+    "end_date": "2024-11-20",
+    "duration_months": 6,
+    "sales_month": 5,
+    "complexity": "High",
+    "team_size": 4,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 0.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 13.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 11.9
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 14.2
+      }
+    ],
+    "locations": [
+      "Lyon"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 2307237.32,
+    "profit": 330970.93,
+    "profit_margin": 0.14
+  },
+  {
+    "project_id": "P20240041",
+    "client": "Orange",
+    "industry": "Pharma",
+    "is_repeat_client": false,
+    "project_type": "Digital Transformation",
+    "start_date": "2024-01-24",
+    "end_date": "2024-04-23",
+    "duration_months": 3,
+    "sales_month": 1,
+    "complexity": "High",
+    "team_size": 3,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 11.8
+      },
+      {
+        "role": "Manager",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.7
+      }
+    ],
+    "locations": [
+      "Nantes"
+    ],
+    "status": "Delayed",
+    "client_complaints": 2,
+    "revenue": 2301536.29,
+    "profit": 655700.36,
+    "profit_margin": 0.28
+  },
+  {
+    "project_id": "P20240042",
+    "client": "Renault",
+    "industry": "Public Sector",
+    "is_repeat_client": false,
+    "project_type": "Process Optimization",
+    "start_date": "2024-05-08",
+    "end_date": "2024-06-22",
+    "duration_months": 1.5,
+    "sales_month": 5,
+    "complexity": "Medium",
+    "team_size": 10,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.0
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 7.2
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 12.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 13.4
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 13.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 10.8
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 13.4
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.9
+      }
+    ],
+    "locations": [
+      "Bordeaux",
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 591123.86,
+    "profit": 117652.68,
+    "profit_margin": 0.2
+  },
+  {
+    "project_id": "P20240043",
+    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "industry": "Insurance",
+    "is_repeat_client": false,
+    "project_type": "IT Outsourcing",
+    "start_date": "2024-04-27",
+    "end_date": "2025-04-22",
+    "duration_months": 12,
+    "sales_month": 4,
+    "complexity": "Medium",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 14.3
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 5.9
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 2.8
+      }
+    ],
+    "locations": [
+      "Bordeaux",
+      "Nantes",
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 2,
+    "revenue": 1006850.83,
+    "profit": 206677.0,
+    "profit_margin": 0.21
+  },
+  {
+    "project_id": "P20240044",
+    "client": "SNCF",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "Process Optimization",
+    "start_date": "2024-11-02",
+    "end_date": "2025-05-01",
+    "duration_months": 6,
+    "sales_month": 11,
+    "complexity": "Low",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 9.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 4.6
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 7.3
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 2.7
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 5.8
+      }
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 955991.32,
+    "profit": 327813.7,
+    "profit_margin": 0.34
+  },
+  {
+    "project_id": "P20240045",
+    "client": "Veolia",
+    "industry": "Public Sector",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-04-09",
+    "end_date": "2024-07-08",
+    "duration_months": 3,
+    "sales_month": 4,
+    "complexity": "Medium",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Senior Consultant",
+        "years_experience": 7.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 3.4
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 6.6
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 8.7
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Lyon"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 954010.35,
+    "profit": 195092.14,
+    "profit_margin": 0.2
+  },
+  {
+    "project_id": "P20240046",
+    "client": "ENGIE",
+    "industry": "Public Sector",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-04-07",
+    "end_date": "2025-01-02",
+    "duration_months": 9,
+    "sales_month": 4,
+    "complexity": "Low",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 4.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 4.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 8.1
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 3.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 3.1
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 13.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 13.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 2.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.7
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.6
+      }
+    ],
+    "locations": [
+      "Paris"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1803674.83,
+    "profit": 534062.89,
+    "profit_margin": 0.3
+  },
+  {
+    "project_id": "P20240047",
+    "client": "L'Or\u00e9al",
+    "industry": "Telecom",
+    "is_repeat_client": true,
+    "project_type": "Data Analytics",
+    "start_date": "2024-01-07",
+    "end_date": "2024-04-06",
+    "duration_months": 3,
+    "sales_month": 1,
+    "complexity": "Medium",
+    "team_size": 4,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 10.0
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 7.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.8
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.9
+      }
+    ],
+    "locations": [
+      "Nantes"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 302515.25,
+    "profit": 88359.65,
+    "profit_margin": 0.29
+  },
+  {
+    "project_id": "P20240048",
+    "client": "Veolia",
+    "industry": "Retail",
+    "is_repeat_client": false,
+    "project_type": "Process Optimization",
+    "start_date": "2024-05-12",
+    "end_date": "2024-08-10",
+    "duration_months": 3,
+    "sales_month": 5,
+    "complexity": "High",
+    "team_size": 8,
+    "team_roles": [
+      {
+        "role": "Manager",
+        "years_experience": 14.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.7
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 6.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 6.3
+      },
+      {
+        "role": "Manager",
+        "years_experience": 6.4
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 10.4
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 2.5
+      }
+    ],
+    "locations": [
+      "Paris",
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 946301.32,
+    "profit": 224171.84,
+    "profit_margin": 0.24
+  },
+  {
+    "project_id": "P20240049",
+    "client": "EDF",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Process Optimization",
+    "start_date": "2024-05-24",
+    "end_date": "2025-02-18",
+    "duration_months": 9,
+    "sales_month": 5,
+    "complexity": "Medium",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 3.5
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 4.4
+      },
+      {
+        "role": "Manager",
+        "years_experience": 10.7
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 13.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 12.9
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 5.1
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 12.9
+      },
+      {
+        "role": "Manager",
+        "years_experience": 2.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 14.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.3
+      }
+    ],
+    "locations": [
+      "Nantes",
+      "Lyon"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 609033.23,
+    "profit": 167832.02,
+    "profit_margin": 0.28
+  },
+  {
+    "project_id": "P20240050",
+    "client": "AXA",
+    "industry": "Transport",
+    "is_repeat_client": true,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-03-06",
+    "end_date": "2024-09-02",
+    "duration_months": 6,
+    "sales_month": 3,
+    "complexity": "Medium",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 11.2
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 9.3
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.2
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 7.0
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 7.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 8.7
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 13.2
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 6.7
+      }
+    ],
+    "locations": [
+      "Bordeaux"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 262347.03,
+    "profit": 53430.96,
+    "profit_margin": 0.2
+  },
+  {
+    "project_id": "P20240051",
+    "client": "AXA",
+    "industry": "Banking",
+    "is_repeat_client": true,
+    "project_type": "Data Analytics",
+    "start_date": "2024-12-27",
+    "end_date": "2025-01-26",
+    "duration_months": 1,
+    "sales_month": 12,
+    "complexity": "Low",
+    "team_size": 11,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 13.6
+      },
+      {
+        "role": "Manager",
+        "years_experience": 3.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 3.8
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 4.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 14.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 14.6
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 7.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 6.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 3.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 13.6
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 2,
+    "revenue": 1388320.75,
+    "profit": 217002.8,
+    "profit_margin": 0.22
+  },
+  {
+    "project_id": "P20240052",
+    "client": "BNP Paribas",
+    "industry": "Public Sector",
+    "is_repeat_client": true,
+    "project_type": "Process Optimization",
+    "start_date": "2024-05-12",
+    "end_date": "2024-06-26",
+    "duration_months": 1.5,
+    "sales_month": 5,
+    "complexity": "Medium",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Manager",
+        "years_experience": 9.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.6
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 12.8
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 10.5
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 12.2
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 2.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 4.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 14.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.4
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 11.0
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Nantes"
+    ],
+    "status": "Delayed",
+    "client_complaints": 0,
+    "revenue": 669525.06,
+    "profit": 211262.54,
+    "profit_margin": 0.32
+  },
+  {
+    "project_id": "P20240053",
+    "client": "L'Or\u00e9al",
+    "industry": "Retail",
+    "is_repeat_client": false,
+    "project_type": "AI/ML Deployment",
+    "start_date": "2024-09-17",
+    "end_date": "2025-03-16",
+    "duration_months": 6,
+    "sales_month": 9,
+    "complexity": "Medium",
+    "team_size": 4,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 4.7
+      },
+      {
+        "role": "Manager",
+        "years_experience": 7.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.5
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.1
+      }
+    ],
+    "locations": [
+      "Lille",
+      "Bordeaux"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 765083.5,
+    "profit": 200824.33,
+    "profit_margin": 0.26
+  },
+  {
+    "project_id": "P20240054",
+    "client": "Carrefour",
+    "industry": "Transport",
+    "is_repeat_client": false,
+    "project_type": "IT Outsourcing",
+    "start_date": "2024-11-17",
+    "end_date": "2025-02-15",
+    "duration_months": 3,
+    "sales_month": 11,
+    "complexity": "Medium",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Consultant",
+        "years_experience": 12.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.2
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.2
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 7.5
+      },
+      {
+        "role": "Manager",
+        "years_experience": 6.6
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 8.4
+      },
+      {
+        "role": "Manager",
+        "years_experience": 9.2
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.1
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 12.0
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.4
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 2.6
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 14.1
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 498220.53,
+    "profit": 151633.25,
+    "profit_margin": 0.3
+  },
+  {
+    "project_id": "P20240055",
+    "client": "Airbus",
+    "industry": "Energy",
+    "is_repeat_client": false,
+    "project_type": "Data Analytics",
+    "start_date": "2024-07-09",
+    "end_date": "2025-01-05",
+    "duration_months": 6,
+    "sales_month": 7,
+    "complexity": "Low",
+    "team_size": 12,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 9.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 12.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 10.1
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 12.7
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 10.3
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 7.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 8.8
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 12.3
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 9.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 2.8
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 14.6
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 9.1
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1068396.81,
+    "profit": 217278.8,
+    "profit_margin": 0.2
+  },
+  {
+    "project_id": "P20240056",
+    "client": "Carrefour",
+    "industry": "Public Sector",
+    "is_repeat_client": false,
+    "project_type": "Cloud Migration",
+    "start_date": "2024-11-14",
+    "end_date": "2025-08-11",
+    "duration_months": 9,
+    "sales_month": 11,
+    "complexity": "Low",
+    "team_size": 9,
+    "team_roles": [
+      {
+        "role": "Cloud Architect",
+        "years_experience": 1.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 3.0
+      },
+      {
+        "role": "Manager",
+        "years_experience": 7.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 5.7
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 6.1
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 14.2
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 14.5
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 6.8
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 2.9
+      }
+    ],
+    "locations": [
+      "Bordeaux"
+    ],
+    "status": "Completed",
+    "client_complaints": 0,
+    "revenue": 818867.42,
+    "profit": 190357.3,
+    "profit_margin": 0.23
+  },
+  {
+    "project_id": "P20240057",
+    "client": "Veolia",
+    "industry": "Telecom",
+    "is_repeat_client": false,
+    "project_type": "ERP Implementation",
+    "start_date": "2024-09-01",
+    "end_date": "2025-08-27",
+    "duration_months": 12,
+    "sales_month": 9,
+    "complexity": "Low",
+    "team_size": 5,
+    "team_roles": [
+      {
+        "role": "Business Analyst",
+        "years_experience": 13.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 5.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 11.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 8.9
+      },
+      {
+        "role": "Cloud Architect",
+        "years_experience": 4.8
+      }
+    ],
+    "locations": [
+      "Lille"
+    ],
+    "status": "Delayed",
+    "client_complaints": 1,
+    "revenue": 1681531.97,
+    "profit": 417584.65,
+    "profit_margin": 0.25
+  },
+  {
+    "project_id": "P20240058",
+    "client": "L'Or\u00e9al",
+    "industry": "Insurance",
+    "is_repeat_client": true,
+    "project_type": "Digital Transformation",
+    "start_date": "2024-11-23",
+    "end_date": "2025-02-21",
+    "duration_months": 3,
+    "sales_month": 11,
+    "complexity": "Medium",
+    "team_size": 7,
+    "team_roles": [
+      {
+        "role": "Data Scientist",
+        "years_experience": 5.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 9.5
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 8.1
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 12.4
+      },
+      {
+        "role": "Consultant",
+        "years_experience": 13.9
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 3.1
+      },
+      {
+        "role": "Manager",
+        "years_experience": 5.2
+      }
+    ],
+    "locations": [
+      "Marseille"
+    ],
+    "status": "Completed",
+    "client_complaints": 1,
+    "revenue": 679620.55,
+    "profit": 170915.78,
+    "profit_margin": 0.25
+  },
+  {
+    "project_id": "P20240059",
+    "client": "Airbus",
+    "industry": "Banking",
+    "is_repeat_client": false,
+    "project_type": "Cybersecurity Audit",
+    "start_date": "2024-03-10",
+    "end_date": "2024-04-24",
+    "duration_months": 1.5,
+    "sales_month": 3,
+    "complexity": "High",
+    "team_size": 6,
+    "team_roles": [
+      {
+        "role": "Project Manager",
+        "years_experience": 0.9
+      },
+      {
+        "role": "Project Manager",
+        "years_experience": 11.7
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 14.0
+      },
+      {
+        "role": "Data Scientist",
+        "years_experience": 6.3
+      },
+      {
+        "role": "Senior Consultant",
+        "years_experience": 6.4
+      },
+      {
+        "role": "Business Analyst",
+        "years_experience": 14.5
+      }
+    ],
+    "locations": [
+      "Lyon"
+    ],
+    "status": "Ongoing",
+    "client_complaints": 0,
+    "revenue": 1899637.64,
+    "profit": 337707.11,
+    "profit_margin": 0.18
   }
 ]

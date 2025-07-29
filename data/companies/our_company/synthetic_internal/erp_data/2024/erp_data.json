@@ -3,400 +3,450 @@
     "record_id": "E2024000",
     "department": "Digital",
     "project": "Data Lake Implementation",
-    "cost": 421397.73,
-    "status": "Completed",
-    "duration_months": 16
+    "cost": 300046.76,
+    "status": "Ongoing",
+    "duration_months": 8,
+    "project_month": 12
   },
   {
     "record_id": "E2024001",
-    "department": "Operations",
-    "project": "AI Chatbot Deployment",
-    "cost": 31385.83,
-    "status": "Delayed",
-    "duration_months": 15
+    "department": "Technology",
+    "project": "SAP Rollout",
+    "cost": 812283.89,
+    "status": "Completed",
+    "duration_months": 15,
+    "project_month": 12
   },
   {
     "record_id": "E2024002",
-    "department": "Technology",
-    "project": "Cloud Migration",
-    "cost": 340315.2,
+    "department": "Digital",
+    "project": "RPA Automation",
+    "cost": 656407.03,
     "status": "Completed",
-    "duration_months": 2
+    "duration_months": 4,
+    "project_month": 9
   },
   {
     "record_id": "E2024003",
-    "department": "Delivery",
-    "project": "Cloud Migration",
-    "cost": 744764.22,
-    "status": "Ongoing",
-    "duration_months": 16
+    "department": "Consulting",
+    "project": "SAP Rollout",
+    "cost": 230169.81,
+    "status": "Completed",
+    "duration_months": 17,
+    "project_month": 8
   },
   {
     "record_id": "E2024004",
-    "department": "Consulting",
-    "project": "Data Lake Implementation",
-    "cost": 541011.97,
+    "department": "Technology",
+    "project": "Cybersecurity Upgrade",
+    "cost": 494967.71,
     "status": "Delayed",
-    "duration_months": 12
+    "duration_months": 8,
+    "project_month": 4
   },
   {
     "record_id": "E2024005",
-    "department": "Consulting",
-    "project": "Salesforce Integration",
-    "cost": 575450.21,
-    "status": "Delayed",
-    "duration_months": 11
+    "department": "Delivery",
+    "project": "AI Chatbot Deployment",
+    "cost": 587367.41,
+    "status": "Completed",
+    "duration_months": 11,
+    "project_month": 9
   },
   {
     "record_id": "E2024006",
-    "department": "Operations",
-    "project": "Cloud Migration",
-    "cost": 128083.65,
+    "department": "Consulting",
+    "project": "SAP Rollout",
+    "cost": 386663.08,
     "status": "Delayed",
-    "duration_months": 10
+    "duration_months": 20,
+    "project_month": 10
   },
   {
     "record_id": "E2024007",
-    "department": "Technology",
-    "project": "Cloud Migration",
-    "cost": 22885.06,
-    "status": "Delayed",
-    "duration_months": 15
+    "department": "Consulting",
+    "project": "Agile Transformation",
+    "cost": 321817.86,
+    "status": "Ongoing",
+    "duration_months": 6,
+    "project_month": 4
   },
   {
     "record_id": "E2024008",
     "department": "Technology",
-    "project": "Cloud Migration",
-    "cost": 654880.51,
-    "status": "Delayed",
-    "duration_months": 13
+    "project": "Data Lake Implementation",
+    "cost": 255265.1,
+    "status": "Ongoing",
+    "duration_months": 9,
+    "project_month": 4
   },
   {
     "record_id": "E2024009",
-    "department": "Operations",
-    "project": "Agile Transformation",
-    "cost": 653600.02,
-    "status": "Delayed",
-    "duration_months": 13
+    "department": "Technology",
+    "project": "SAP Rollout",
+    "cost": 372112.72,
+    "status": "Completed",
+    "duration_months": 14,
+    "project_month": 9
   },
   {
     "record_id": "E2024010",
-    "department": "Digital",
-    "project": "Cybersecurity Upgrade",
-    "cost": 164357.68,
-    "status": "Ongoing",
-    "duration_months": 3
+    "department": "Delivery",
+    "project": "SAP Rollout",
+    "cost": 804739.6,
+    "status": "Completed",
+    "duration_months": 10,
+    "project_month": 8
   },
   {
     "record_id": "E2024011",
-    "department": "Operations",
-    "project": "Salesforce Integration",
-    "cost": 117431.27,
-    "status": "Ongoing",
-    "duration_months": 14
+    "department": "Delivery",
+    "project": "SAP Rollout",
+    "cost": 863743.94,
+    "status": "Delayed",
+    "duration_months": 10,
+    "project_month": 7
   },
   {
     "record_id": "E2024012",
-    "department": "Operations",
-    "project": "AI Chatbot Deployment",
-    "cost": 255543.54,
-    "status": "Completed",
-    "duration_months": 4
+    "department": "Digital",
+    "project": "Data Lake Implementation",
+    "cost": 149994.89,
+    "status": "Ongoing",
+    "duration_months": 4,
+    "project_month": 11
   },
   {
     "record_id": "E2024013",
-    "department": "Delivery",
-    "project": "RPA Automation",
-    "cost": 622797.97,
-    "status": "Delayed",
-    "duration_months": 8
+    "department": "Operations",
+    "project": "Agile Transformation",
+    "cost": 750679.56,
+    "status": "Ongoing",
+    "duration_months": 3,
+    "project_month": 11
   },
   {
     "record_id": "E2024014",
-    "department": "Consulting",
-    "project": "Agile Transformation",
-    "cost": 168090.8,
-    "status": "Delayed",
-    "duration_months": 7
+    "department": "Delivery",
+    "project": "Cybersecurity Upgrade",
+    "cost": 680857.9,
+    "status": "Completed",
+    "duration_months": 7,
+    "project_month": 11
   },
   {
     "record_id": "E2024015",
-    "department": "Delivery",
+    "department": "Operations",
     "project": "Salesforce Integration",
-    "cost": 431641.65,
-    "status": "Delayed",
-    "duration_months": 14
+    "cost": 178870.46,
+    "status": "Completed",
+    "duration_months": 10,
+    "project_month": 12
   },
   {
     "record_id": "E2024016",
-    "department": "Operations",
-    "project": "Cybersecurity Upgrade",
-    "cost": 34589.22,
-    "status": "Ongoing",
-    "duration_months": 10
+    "department": "Digital",
+    "project": "Salesforce Integration",
+    "cost": 757212.8,
+    "status": "Completed",
+    "duration_months": 4,
+    "project_month": 2
   },
   {
     "record_id": "E2024017",
-    "department": "Digital",
-    "project": "Agile Transformation",
-    "cost": 42783.18,
+    "department": "Consulting",
+    "project": "SAP Rollout",
+    "cost": 258705.56,
     "status": "Ongoing",
-    "duration_months": 8
+    "duration_months": 5,
+    "project_month": 3
   },
   {
     "record_id": "E2024018",
-    "department": "Technology",
+    "department": "Digital",
     "project": "RPA Automation",
-    "cost": 347175.1,
+    "cost": 702127.79,
     "status": "Completed",
-    "duration_months": 14
+    "duration_months": 6,
+    "project_month": 6
   },
   {
     "record_id": "E2024019",
     "department": "Consulting",
-    "project": "Agile Transformation",
-    "cost": 663313.31,
-    "status": "Ongoing",
-    "duration_months": 6
+    "project": "Cloud Migration",
+    "cost": 318645.54,
+    "status": "Completed",
+    "duration_months": 16,
+    "project_month": 6
   },
   {
     "record_id": "E2024020",
-    "department": "Digital",
-    "project": "Data Lake Implementation",
-    "cost": 769427.5,
+    "department": "Consulting",
+    "project": "SAP Rollout",
+    "cost": 252829.1,
     "status": "Completed",
-    "duration_months": 17
+    "duration_months": 13,
+    "project_month": 12
   },
   {
     "record_id": "E2024021",
-    "department": "Delivery",
-    "project": "Cloud Migration",
-    "cost": 426982.4,
-    "status": "Ongoing",
-    "duration_months": 5
+    "department": "Technology",
+    "project": "Cybersecurity Upgrade",
+    "cost": 728314.68,
+    "status": "Completed",
+    "duration_months": 12,
+    "project_month": 1
   },
   {
     "record_id": "E2024022",
-    "department": "Technology",
-    "project": "Cybersecurity Upgrade",
-    "cost": 113536.51,
+    "department": "Operations",
+    "project": "Cloud Migration",
+    "cost": 122757.6,
     "status": "Completed",
-    "duration_months": 18
+    "duration_months": 14,
+    "project_month": 7
   },
   {
     "record_id": "E2024023",
     "department": "Delivery",
-    "project": "RPA Automation",
-    "cost": 271124.68,
+    "project": "SAP Rollout",
+    "cost": 948025.39,
     "status": "Completed",
-    "duration_months": 13
+    "duration_months": 6,
+    "project_month": 10
   },
   {
     "record_id": "E2024024",
-    "department": "Technology",
-    "project": "Salesforce Integration",
-    "cost": 363067.61,
+    "department": "Operations",
+    "project": "SAP Rollout",
+    "cost": 905103.52,
     "status": "Ongoing",
-    "duration_months": 12
+    "duration_months": 7,
+    "project_month": 6
   },
   {
     "record_id": "E2024025",
-    "department": "Digital",
-    "project": "Cybersecurity Upgrade",
-    "cost": 629464.82,
+    "department": "Consulting",
+    "project": "Agile Transformation",
+    "cost": 430047.96,
     "status": "Ongoing",
-    "duration_months": 18
+    "duration_months": 9,
+    "project_month": 10
   },
   {
     "record_id": "E2024026",
-    "department": "Delivery",
-    "project": "SAP Rollout",
-    "cost": 497978.2,
+    "department": "Digital",
+    "project": "Data Lake Implementation",
+    "cost": 493245.98,
     "status": "Delayed",
-    "duration_months": 8
+    "duration_months": 6,
+    "project_month": 1
   },
   {
     "record_id": "E2024027",
-    "department": "Delivery",
-    "project": "Agile Transformation",
-    "cost": 192490.22,
-    "status": "Completed",
-    "duration_months": 18
+    "department": "Technology",
+    "project": "Salesforce Integration",
+    "cost": 167927.0,
+    "status": "Ongoing",
+    "duration_months": 18,
+    "project_month": 6
   },
   {
     "record_id": "E2024028",
-    "department": "Technology",
-    "project": "AI Chatbot Deployment",
-    "cost": 439875.76,
-    "status": "Ongoing",
-    "duration_months": 13
+    "department": "Operations",
+    "project": "Agile Transformation",
+    "cost": 493643.12,
+    "status": "Completed",
+    "duration_months": 2,
+    "project_month": 2
   },
   {
     "record_id": "E2024029",
     "department": "Consulting",
-    "project": "SAP Rollout",
-    "cost": 455530.83,
+    "project": "Agile Transformation",
+    "cost": 243340.05,
     "status": "Ongoing",
-    "duration_months": 2
+    "duration_months": 7,
+    "project_month": 3
   },
   {
     "record_id": "E2024030",
-    "department": "Operations",
+    "department": "Consulting",
     "project": "Cloud Migration",
-    "cost": 338664.97,
-    "status": "Delayed",
-    "duration_months": 4
+    "cost": 39610.4,
+    "status": "Ongoing",
+    "duration_months": 3,
+    "project_month": 12
   },
   {
     "record_id": "E2024031",
-    "department": "Consulting",
-    "project": "AI Chatbot Deployment",
-    "cost": 505134.4,
+    "department": "Delivery",
+    "project": "Data Lake Implementation",
+    "cost": 98540.66,
     "status": "Completed",
-    "duration_months": 15
+    "duration_months": 7,
+    "project_month": 9
   },
   {
     "record_id": "E2024032",
-    "department": "Consulting",
-    "project": "SAP Rollout",
-    "cost": 676442.62,
-    "status": "Delayed",
-    "duration_months": 15
+    "department": "Digital",
+    "project": "Agile Transformation",
+    "cost": 568091.38,
+    "status": "Completed",
+    "duration_months": 5,
+    "project_month": 9
   },
   {
     "record_id": "E2024033",
-    "department": "Operations",
-    "project": "Cybersecurity Upgrade",
-    "cost": 380595.04,
+    "department": "Delivery",
+    "project": "Agile Transformation",
+    "cost": 162498.73,
     "status": "Ongoing",
-    "duration_months": 17
+    "duration_months": 8,
+    "project_month": 12
   },
   {
     "record_id": "E2024034",
-    "department": "Technology",
-    "project": "Data Lake Implementation",
-    "cost": 346236.64,
+    "department": "Digital",
+    "project": "Agile Transformation",
+    "cost": 276745.13,
     "status": "Completed",
-    "duration_months": 9
+    "duration_months": 2,
+    "project_month": 9
   },
   {
     "record_id": "E2024035",
-    "department": "Technology",
-    "project": "AI Chatbot Deployment",
-    "cost": 523444.77,
-    "status": "Completed",
-    "duration_months": 17
+    "department": "Digital",
+    "project": "Data Lake Implementation",
+    "cost": 417275.69,
+    "status": "Delayed",
+    "duration_months": 14,
+    "project_month": 12
   },
   {
     "record_id": "E2024036",
-    "department": "Technology",
-    "project": "SAP Rollout",
-    "cost": 765229.86,
+    "department": "Digital",
+    "project": "Data Lake Implementation",
+    "cost": 607605.36,
     "status": "Completed",
-    "duration_months": 5
+    "duration_months": 4,
+    "project_month": 4
   },
   {
     "record_id": "E2024037",
-    "department": "Delivery",
-    "project": "AI Chatbot Deployment",
-    "cost": 703662.3,
+    "department": "Consulting",
+    "project": "RPA Automation",
+    "cost": 442504.91,
     "status": "Ongoing",
-    "duration_months": 2
+    "duration_months": 8,
+    "project_month": 1
   },
   {
     "record_id": "E2024038",
     "department": "Digital",
     "project": "SAP Rollout",
-    "cost": 799525.86,
-    "status": "Completed",
-    "duration_months": 13
+    "cost": 765762.71,
+    "status": "Ongoing",
+    "duration_months": 10,
+    "project_month": 9
   },
   {
     "record_id": "E2024039",
-    "department": "Digital",
-    "project": "AI Chatbot Deployment",
-    "cost": 701386.22,
-    "status": "Completed",
-    "duration_months": 11
+    "department": "Consulting",
+    "project": "Data Lake Implementation",
+    "cost": 184070.77,
+    "status": "Delayed",
+    "duration_months": 16,
+    "project_month": 9
   },
   {
     "record_id": "E2024040",
-    "department": "Consulting",
-    "project": "Data Lake Implementation",
-    "cost": 401566.08,
+    "department": "Delivery",
+    "project": "Cloud Migration",
+    "cost": 651240.87,
     "status": "Completed",
-    "duration_months": 6
+    "duration_months": 15,
+    "project_month": 5
   },
   {
     "record_id": "E2024041",
     "department": "Operations",
-    "project": "Data Lake Implementation",
-    "cost": 577069.9,
-    "status": "Delayed",
-    "duration_months": 7
+    "project": "RPA Automation",
+    "cost": 170922.73,
+    "status": "Ongoing",
+    "duration_months": 12,
+    "project_month": 1
   },
   {
     "record_id": "E2024042",
-    "department": "Digital",
-    "project": "AI Chatbot Deployment",
-    "cost": 634597.93,
-    "status": "Ongoing",
-    "duration_months": 17
+    "department": "Operations",
+    "project": "Agile Transformation",
+    "cost": 407463.25,
+    "status": "Completed",
+    "duration_months": 11,
+    "project_month": 1
   },
   {
     "record_id": "E2024043",
-    "department": "Delivery",
+    "department": "Consulting",
     "project": "Cloud Migration",
-    "cost": 338722.57,
-    "status": "Ongoing",
-    "duration_months": 17
+    "cost": 615039.93,
+    "status": "Completed",
+    "duration_months": 7,
+    "project_month": 5
   },
   {
     "record_id": "E2024044",
-    "department": "Operations",
+    "department": "Delivery",
     "project": "Data Lake Implementation",
-    "cost": 415620.06,
+    "cost": 493392.67,
     "status": "Completed",
-    "duration_months": 4
+    "duration_months": 8,
+    "project_month": 11
   },
   {
     "record_id": "E2024045",
-    "department": "Consulting",
-    "project": "Data Lake Implementation",
-    "cost": 716346.39,
-    "status": "Delayed",
-    "duration_months": 6
+    "department": "Technology",
+    "project": "Salesforce Integration",
+    "cost": 503283.53,
+    "status": "Completed",
+    "duration_months": 3,
+    "project_month": 3
   },
   {
     "record_id": "E2024046",
-    "department": "Operations",
-    "project": "RPA Automation",
-    "cost": 455293.68,
+    "department": "Delivery",
+    "project": "Salesforce Integration",
+    "cost": 515410.67,
     "status": "Completed",
-    "duration_months": 11
+    "duration_months": 16,
+    "project_month": 12
   },
   {
     "record_id": "E2024047",
-    "department": "Consulting",
-    "project": "AI Chatbot Deployment",
-    "cost": 284262.45,
-    "status": "Completed",
-    "duration_months": 7
+    "department": "Operations",
+    "project": "RPA Automation",
+    "cost": 569897.49,
+    "status": "Ongoing",
+    "duration_months": 15,
+    "project_month": 3
   },
   {
     "record_id": "E2024048",
     "department": "Digital",
-    "project": "SAP Rollout",
-    "cost": 717914.74,
-    "status": "Delayed",
-    "duration_months": 2
+    "project": "AI Chatbot Deployment",
+    "cost": 568259.8,
+    "status": "Completed",
+    "duration_months": 6,
+    "project_month": 1
   },
   {
     "record_id": "E2024049",
-    "department": "Delivery",
-    "project": "Data Lake Implementation",
-    "cost": 168094.39,
-    "status": "Delayed",
-    "duration_months": 2
+    "department": "Technology",
+    "project": "Salesforce Integration",
+    "cost": 549123.17,
+    "status": "Completed",
+    "duration_months": 13,
+    "project_month": 2
   }
 ]

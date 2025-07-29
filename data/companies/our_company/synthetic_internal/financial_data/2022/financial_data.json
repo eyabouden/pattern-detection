@@ -2,121 +2,121 @@
   {
     "month": 1,
     "year": 2022,
-    "client": "SNCF",
-    "revenue": 1082458.2,
-    "expenses": 868215.08,
-    "billable_hours": 7452,
-    "project_margin": 0.21,
-    "profit": 214243.12
+    "client_id": "C013",
+    "revenue": 1652869.17,
+    "expenses": 1342334.51,
+    "billable_hours": 1982,
+    "project_margin": 0.03,
+    "profit": 310534.67
   },
   {
     "month": 2,
     "year": 2022,
-    "client": "TotalEnergies",
-    "revenue": 960638.37,
-    "expenses": 1210810.19,
-    "billable_hours": 3724,
-    "project_margin": 0.37,
-    "profit": -250171.82
+    "client_id": "C013",
+    "revenue": 333671.23,
+    "expenses": 1640847.33,
+    "billable_hours": 7556,
+    "project_margin": 0.12,
+    "profit": -1307176.11
   },
   {
     "month": 3,
     "year": 2022,
-    "client": "L'Or\u00e9al",
-    "revenue": 262629.55,
-    "expenses": 1237064.49,
-    "billable_hours": 5379,
-    "project_margin": 0.34,
-    "profit": -974434.94
+    "client_id": "C002",
+    "revenue": 1471815.1,
+    "expenses": 487100.06,
+    "billable_hours": 6974,
+    "project_margin": 0.39,
+    "profit": 984715.04
   },
   {
     "month": 4,
     "year": 2022,
-    "client": "Veolia",
-    "revenue": 1436749.82,
-    "expenses": 153219.01,
-    "billable_hours": 1377,
-    "project_margin": 0.17,
-    "profit": 1283530.81
+    "client_id": "C007",
+    "revenue": 1320386.63,
+    "expenses": 423652.42,
+    "billable_hours": 5197,
+    "project_margin": 0.24,
+    "profit": 896734.22
   },
   {
     "month": 5,
     "year": 2022,
-    "client": "TotalEnergies",
-    "revenue": 776865.37,
-    "expenses": 1424822.02,
-    "billable_hours": 2053,
-    "project_margin": 0.43,
-    "profit": -647956.65
+    "client_id": "C013",
+    "revenue": 1366128.05,
+    "expenses": 213667.19,
+    "billable_hours": 5862,
+    "project_margin": 0.12,
+    "profit": 1152460.86
   },
   {
     "month": 6,
     "year": 2022,
-    "client": "BNP Paribas",
-    "revenue": 991949.83,
-    "expenses": 1364926.66,
-    "billable_hours": 6873,
-    "project_margin": 0.33,
-    "profit": -372976.83
+    "client_id": "C003",
+    "revenue": 2193120.81,
+    "expenses": 1455125.29,
+    "billable_hours": 1513,
+    "project_margin": 0.04,
+    "profit": 737995.52
   },
   {
     "month": 7,
     "year": 2022,
-    "client": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "revenue": 629377.86,
-    "expenses": 1149277.35,
-    "billable_hours": 814,
-    "project_margin": 0.14,
-    "profit": -519899.49
+    "client_id": "C005",
+    "revenue": 581608.12,
+    "expenses": 424778.74,
+    "billable_hours": 6791,
+    "project_margin": 0.11,
+    "profit": 156829.38
   },
   {
     "month": 8,
     "year": 2022,
-    "client": "Orange",
-    "revenue": 866245.98,
-    "expenses": 147026.47,
-    "billable_hours": 5435,
-    "project_margin": 0.41,
-    "profit": 719219.51
+    "client_id": "C004",
+    "revenue": 1498382.25,
+    "expenses": 196080.45,
+    "billable_hours": 4772,
+    "project_margin": 0.35,
+    "profit": 1302301.8
   },
   {
     "month": 9,
     "year": 2022,
-    "client": "Veolia",
-    "revenue": 1238770.34,
-    "expenses": 270895.65,
-    "billable_hours": 6626,
-    "project_margin": 0.29,
-    "profit": 967874.69
+    "client_id": "C011",
+    "revenue": 1372800.41,
+    "expenses": 1105533.81,
+    "billable_hours": 4703,
+    "project_margin": 0.12,
+    "profit": 267266.6
   },
   {
     "month": 10,
     "year": 2022,
-    "client": "TotalEnergies",
-    "revenue": 844920.85,
-    "expenses": 1382104.11,
-    "billable_hours": 1007,
-    "project_margin": 0.36,
-    "profit": -537183.26
+    "client_id": "C002",
+    "revenue": 728570.05,
+    "expenses": 1055409.19,
+    "billable_hours": 4774,
+    "project_margin": 0.37,
+    "profit": -326839.14
   },
   {
     "month": 11,
     "year": 2022,
-    "client": "EDF",
-    "revenue": 673349.18,
-    "expenses": 177826.62,
-    "billable_hours": 1794,
-    "project_margin": 0.31,
-    "profit": 495522.56
+    "client_id": "C009",
+    "revenue": 677486.25,
+    "expenses": 158102.81,
+    "billable_hours": 2598,
+    "project_margin": 0.23,
+    "profit": 519383.45
   },
   {
     "month": 12,
     "year": 2022,
-    "client": "L'Or\u00e9al",
-    "revenue": 1287205.38,
-    "expenses": 246934.61,
-    "billable_hours": 4528,
-    "project_margin": 0.28,
-    "profit": 1040270.77
+    "client_id": "C010",
+    "revenue": 309005.45,
+    "expenses": 1300449.13,
+    "billable_hours": 1801,
+    "project_margin": 0.17,
+    "profit": -991443.68
   }
 ]

@@ -1,5 +1,6 @@
 requests
 beautifulsoup4
 pymupdf
-google-search-python
+googlesearch-python
 tqdm 
+llama-cpp-python 

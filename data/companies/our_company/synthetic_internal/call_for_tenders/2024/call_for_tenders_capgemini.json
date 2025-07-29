@@ -1,0 +1,214 @@
+[
+  {
+    "tender": {
+      "tender_id": "T20240001",
+      "tender_type": "Transformation Digitale",
+      "issue_date": "2024-01-10",
+      "closing_date": "2024-02-10",
+      "status": "Awarded",
+      "client": "Banque Populaire",
+      "client_size": "Grand Compte",
+      "industry": "Banque",
+      "communication_channel": "Plateforme Marchés Publics",
+      "description": "Transformation digitale du parcours client, intégration CRM omnicanal, automatisation des processus internes.",
+      "estimated_value": 2500000,
+      "tender_month": 1
+    },
+    "response": {
+      "response_id": "R20240001-01",
+      "tender_id": "T20240001",
+      "company": "Capgemini",
+      "proposed_value": 2350000,
+      "proposed_duration_months": 12,
+      "team": [
+        {"role": "Chef de projet", "name": "Sophie Martin", "years_experience": 12},
+        {"role": "Architecte CRM", "name": "Ali Benali", "years_experience": 10},
+        {"role": "Consultant Digital", "name": "Julie Robert", "years_experience": 7},
+        {"role": "Développeur Fullstack", "name": "Pierre Dubois", "years_experience": 5},
+        {"role": "Expert Data", "name": "Fatou Ndiaye", "years_experience": 8}
+      ],
+      "methodology": "Agile (Scrum), ateliers de co-conception, sprints de 3 semaines, déploiement progressif.",
+      "key_deliverables": [
+        "Audit des processus existants",
+        "Cahier des charges CRM",
+        "Déploiement CRM Salesforce",
+        "Automatisation des workflows internes",
+        "Formation des utilisateurs",
+        "Support post-déploiement (3 mois)"
+      ],
+      "success_factors": [
+        "Expérience sur des projets similaires dans la banque",
+        "Équipe pluridisciplinaire",
+        "Méthodologie agile éprouvée"
+      ]
+    },
+    "project": {
+      "project_id": "P20240001",
+      "client": "Banque Populaire",
+      "company": "Capgemini",
+      "industry": "Banque",
+      "project_type": "Transformation Digitale",
+      "start_date": "2024-03-01",
+      "end_date": "2025-02-28",
+      "duration_months": 12,
+      "team": [
+        {"role": "Chef de projet", "name": "Sophie Martin"},
+        {"role": "Architecte CRM", "name": "Ali Benali"},
+        {"role": "Consultant Digital", "name": "Julie Robert"},
+        {"role": "Développeur Fullstack", "name": "Pierre Dubois"},
+        {"role": "Expert Data", "name": "Fatou Ndiaye"}
+      ],
+      "locations": ["Paris", "Lyon"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 2350000,
+      "profit": 470000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "CRM Salesforce opérationnel",
+        "Automatisation de 8 processus internes",
+        "Formation de 120 utilisateurs",
+        "Tableaux de bord de suivi"
+      ],
+      "client_feedback": "Projet livré dans les temps, équipe très professionnelle, adoption rapide du CRM par les équipes métiers."
+    }
+  },
+  {
+    "tender": {
+      "tender_id": "T20240002",
+      "tender_type": "Migration Cloud",
+      "issue_date": "2024-02-15",
+      "closing_date": "2024-03-10",
+      "status": "Awarded",
+      "client": "Société Générale",
+      "client_size": "Grand Compte",
+      "industry": "Banque",
+      "communication_channel": "Appel d'offre privé",
+      "description": "Migration de l'infrastructure IT vers le cloud Azure, sécurisation et optimisation des coûts.",
+      "estimated_value": 1800000,
+      "tender_month": 2
+    },
+    "response": {
+      "response_id": "R20240002-01",
+      "tender_id": "T20240002",
+      "company": "Capgemini",
+      "proposed_value": 1750000,
+      "proposed_duration_months": 8,
+      "team": [
+        {"role": "Chef de projet", "name": "Marc Lefevre", "years_experience": 15},
+        {"role": "Architecte Cloud", "name": "Nadia Khelifi", "years_experience": 11},
+        {"role": "Ingénieur Sécurité", "name": "Lucas Morel", "years_experience": 9},
+        {"role": "Consultant FinOps", "name": "Emma Laurent", "years_experience": 6}
+      ],
+      "methodology": "Approche DevOps, migration par lots, validation continue, documentation détaillée.",
+      "key_deliverables": [
+        "Plan de migration détaillé",
+        "Environnements cloud sécurisés",
+        "Transfert de compétences",
+        "Optimisation des coûts"
+      ],
+      "success_factors": [
+        "Expertise cloud Azure",
+        "Gestion des risques",
+        "Accompagnement au changement"
+      ]
+    },
+    "project": {
+      "project_id": "P20240002",
+      "client": "Société Générale",
+      "company": "Capgemini",
+      "industry": "Banque",
+      "project_type": "Migration Cloud",
+      "start_date": "2024-04-01",
+      "end_date": "2024-11-30",
+      "duration_months": 8,
+      "team": [
+        {"role": "Chef de projet", "name": "Marc Lefevre"},
+        {"role": "Architecte Cloud", "name": "Nadia Khelifi"},
+        {"role": "Ingénieur Sécurité", "name": "Lucas Morel"},
+        {"role": "Consultant FinOps", "name": "Emma Laurent"}
+      ],
+      "locations": ["Paris", "Lille"],
+      "status": "Completed",
+      "client_complaints": 1,
+      "revenue": 1750000,
+      "profit": 350000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "Migration de 120 serveurs",
+        "Sécurisation des accès",
+        "Formation de 30 administrateurs"
+      ],
+      "client_feedback": "Migration réussie, quelques ajustements nécessaires sur la sécurité, mais projet globalement satisfaisant."
+    }
+  },
+  {
+    "tender": {
+      "tender_id": "T20240003",
+      "tender_type": "Déploiement IA",
+      "issue_date": "2024-03-20",
+      "closing_date": "2024-04-15",
+      "status": "Awarded",
+      "client": "EDF",
+      "client_size": "Grand Compte",
+      "industry": "Énergie",
+      "communication_channel": "Plateforme Achats",
+      "description": "Déploiement d'une solution d'IA pour la maintenance prédictive des équipements.",
+      "estimated_value": 2200000,
+      "tender_month": 3
+    },
+    "response": {
+      "response_id": "R20240003-01",
+      "tender_id": "T20240003",
+      "company": "Capgemini",
+      "proposed_value": 2100000,
+      "proposed_duration_months": 10,
+      "team": [
+        {"role": "Chef de projet", "name": "Claire Girard", "years_experience": 13},
+        {"role": "Data Scientist", "name": "Yannick Petit", "years_experience": 9},
+        {"role": "Ingénieur IA", "name": "Sami Bouzid", "years_experience": 8},
+        {"role": "Consultant Maintenance", "name": "Lucie Bernard", "years_experience": 7}
+      ],
+      "methodology": "Proof of Concept, déploiement progressif, ateliers métiers, monitoring continu.",
+      "key_deliverables": [
+        "Modèle IA de maintenance prédictive",
+        "Intégration avec le SI existant",
+        "Tableaux de bord de suivi",
+        "Formation des équipes techniques"
+      ],
+      "success_factors": [
+        "Expertise IA industrielle",
+        "Collaboration avec les équipes EDF",
+        "Approche itérative"
+      ]
+    },
+    "project": {
+      "project_id": "P20240003",
+      "client": "EDF",
+      "company": "Capgemini",
+      "industry": "Énergie",
+      "project_type": "Déploiement IA",
+      "start_date": "2024-05-01",
+      "end_date": "2025-02-28",
+      "duration_months": 10,
+      "team": [
+        {"role": "Chef de projet", "name": "Claire Girard"},
+        {"role": "Data Scientist", "name": "Yannick Petit"},
+        {"role": "Ingénieur IA", "name": "Sami Bouzid"},
+        {"role": "Consultant Maintenance", "name": "Lucie Bernard"}
+      ],
+      "locations": ["Lyon", "Marseille"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 2100000,
+      "profit": 420000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "Modèle IA opérationnel",
+        "Réduction de 15% des pannes",
+        "Formation de 20 techniciens"
+      ],
+      "client_feedback": "Projet innovant, résultats visibles dès 6 mois, très bonne collaboration avec Capgemini."
+    }
+  }
+] 

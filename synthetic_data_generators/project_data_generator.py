@@ -33,6 +33,7 @@ def generate_synthetic_project_data(year, num_projects=60):
     data = []
     client_repeat_prob = {client: random.uniform(0.2, 0.7) for client in CLIENTS}
     client_last_project = {}
+    LOCATIONS_POOL = ["Paris", "Lyon", "Marseille", "Toulouse", "Lille", "Nantes", "Bordeaux"]
 
     for i in range(num_projects):
         client = random.choice(CLIENTS)
@@ -43,24 +44,51 @@ def generate_synthetic_project_data(year, num_projects=60):
             weights=[1.2, 1.1, 1.0, 1.0, 0.8, 0.9, 1.1, 0.7],  # Some types more common
         )[0]
         start_date = random_date(year)
-        duration_months = random.choices([3, 6, 9, 12, 15], weights=[0.2, 0.4, 0.2, 0.15, 0.05])[0]
-        end_date = start_date + timedelta(days=duration_months * 30)
+        duration_months = random.choices([1, 1.5, 3, 6, 9, 12, 15], weights=[0.05, 0.05, 0.2, 0.4, 0.15, 0.1, 0.05])[0]
+        end_date = start_date + timedelta(days=int(duration_months * 30))
         complexity = random.choices(["Low", "Medium", "High"], weights=[0.3, 0.5, 0.2])[0]
         team_size = random.randint(3, 12)
-        team = random.choices(TEAM_ROLES, k=team_size)
+        # team_roles as list of dicts, at least 10% of projects have a junior (<2 years)
+        team_roles = []
+        has_junior = random.random() < 0.15
+        junior_added = False
+        for _ in range(team_size):
+            role = random.choice(TEAM_ROLES)
+            if has_junior and not junior_added:
+                years_experience = random.uniform(0.5, 1.9)
+                junior_added = True
+            else:
+                years_experience = random.uniform(2, 15)
+            team_roles.append({"role": role, "years_experience": round(years_experience, 1)})
+        # locations as a list (1-3, sometimes >1 for multi-site)
+        n_locations = random.choices([1, 2, 3], weights=[0.7, 0.2, 0.1])[0]
+        locations = random.sample(LOCATIONS_POOL, n_locations)
+        # status: some projects are 'delayed'
+        status = random.choices(["Completed", "Ongoing", "Delayed"], weights=[0.6, 0.25, 0.15])[0]
+        # client_complaints: 0-3, more likely if delayed
+        if status == "Delayed":
+            client_complaints = random.choices([0, 1, 2, 3], weights=[0.3, 0.3, 0.3, 0.1])[0]
+        else:
+            client_complaints = random.choices([0, 1, 2], weights=[0.7, 0.2, 0.1])[0]
         base_revenue = random.uniform(100000, 2000000)
         # Revenue is higher for certain project types and industries
         if project_type in ["Digital Transformation", "ERP Implementation"]:
             base_revenue *= 1.2
         if industry in ["Banking", "Energy", "Pharma"]:
             base_revenue *= 1.15
+        # Anomaly: rare huge project
+        if random.random() < 0.02:
+            base_revenue *= random.uniform(2, 4)
+        # Seasonality: more sales in certain months
+        sales_month = start_date.month
         # Profit is correlated with duration and complexity
         profit_margin = random.uniform(0.18, 0.35)
         if complexity == "High":
             profit_margin -= 0.05
         profit = base_revenue * profit_margin
-        # Seasonality: more sales in certain months
-        sales_month = start_date.month
+        # Cross-dataset: simulate impact of HR churn (e.g., lower profit if previous year had high HR churn)
+        if year > 2021 and random.random() < 0.05:
+            profit *= 0.7
         # Save for repeat client logic
         client_last_project[client] = end_date
 
@@ -76,7 +104,10 @@ def generate_synthetic_project_data(year, num_projects=60):
             "sales_month": sales_month,
             "complexity": complexity,
             "team_size": team_size,
-            "team_roles": team,
+            "team_roles": team_roles,
+            "locations": locations,
+            "status": status,
+            "client_complaints": client_complaints,
             "revenue": round(base_revenue, 2),
             "profit": round(profit, 2),
             "profit_margin": round(profit_margin, 2)
@@ -97,11 +128,19 @@ def generate_synthetic_call_for_tenders(year, num_tenders=40):
         tender_type = random.choice(TENDER_TYPES)
         issue_date = random_date(year)
         closing_date = issue_date + timedelta(days=random.randint(15, 60))
-        status = random.choices(TENDER_STATUSES, weights=[0.4, 0.3, 0.25, 0.05])[0]
+        # Seasonality: more tenders in Q2/Q4
+        tender_month = issue_date.month
+        status = random.choices(TENDER_STATUSES, weights=[0.4, 0.3, 0.25, 0.05] if tender_month in [4,5,6,10,11,12] else [0.3,0.4,0.25,0.05])[0]
         client_size = random.choice(CLIENT_SIZES)
         communication_channel = random.choice(COMMUNICATION_CHANNELS)
         description = f"{tender_type} tender for project {i}"
         estimated_value = random.uniform(50000, 5000000)
+        # Anomaly: rare very high value
+        if random.random() < 0.02:
+            estimated_value *= random.uniform(2, 3)
+        # Cross-dataset: simulate impact of financial stress (e.g., more cancelled tenders after bad financial year)
+        if year > 2021 and random.random() < 0.05:
+            status = "Cancelled"
         data.append({
             "tender_id": tender_id,
             "tender_type": tender_type,
@@ -111,7 +150,8 @@ def generate_synthetic_call_for_tenders(year, num_tenders=40):
             "client_size": client_size,
             "communication_channel": communication_channel,
             "description": description,
-            "estimated_value": round(estimated_value, 2)
+            "estimated_value": round(estimated_value, 2),
+            "tender_month": tender_month
         })
     return data
 

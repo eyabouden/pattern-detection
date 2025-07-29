@@ -1,0 +1,273 @@
+[
+  {
+    "tender": {
+      "tender_id": "T20210001",
+      "tender_type": "ERP Implementation",
+      "issue_date": "2021-02-10",
+      "closing_date": "2021-03-10",
+      "status": "Awarded",
+      "client": "Renault",
+      "client_size": "Grand Compte",
+      "industry": "Automobile",
+      "communication_channel": "Plateforme Marchés Publics",
+      "description": "Mise en place d'un ERP pour la gestion de la chaîne logistique.",
+      "estimated_value": 1800000,
+      "tender_month": 2
+    },
+    "response": {
+      "response_id": "R20210001-01",
+      "tender_id": "T20210001",
+      "company": "Capgemini",
+      "proposed_value": 1750000,
+      "proposed_duration_months": 10,
+      "team": [
+        {"role": "Chef de projet", "name": "Jean Moreau", "years_experience": 14},
+        {"role": "Consultant ERP", "name": "Leila Haddad", "years_experience": 11},
+        {"role": "Développeur Backend", "name": "Olivier Simon", "years_experience": 8}
+      ],
+      "methodology": "Cycle en V, ateliers métiers, formation utilisateurs.",
+      "key_deliverables": [
+        "Spécifications fonctionnelles",
+        "Déploiement ERP SAP",
+        "Formation des utilisateurs"
+      ],
+      "success_factors": [
+        "Expertise SAP",
+        "Gestion du changement",
+        "Respect des délais"
+      ]
+    },
+    "project": {
+      "project_id": "P20210001",
+      "client": "Renault",
+      "company": "Capgemini",
+      "industry": "Automobile",
+      "project_type": "ERP Implementation",
+      "start_date": "2021-04-01",
+      "end_date": "2022-01-31",
+      "duration_months": 10,
+      "team": [
+        {"role": "Chef de projet", "name": "Jean Moreau"},
+        {"role": "Consultant ERP", "name": "Leila Haddad"},
+        {"role": "Développeur Backend", "name": "Olivier Simon"}
+      ],
+      "locations": ["Paris", "Boulogne"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 1750000,
+      "profit": 350000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "ERP SAP opérationnel",
+        "Formation de 60 utilisateurs"
+      ],
+      "client_feedback": "Projet mené efficacement, bonne gestion du changement."
+    }
+  },
+  {
+    "tender": {
+      "tender_id": "T20220001",
+      "tender_type": "Data Lake Implementation",
+      "issue_date": "2022-05-15",
+      "closing_date": "2022-06-10",
+      "status": "Awarded",
+      "client": "L'Oréal",
+      "client_size": "Grand Compte",
+      "industry": "Cosmétique",
+      "communication_channel": "Appel d'offre privé",
+      "description": "Mise en place d'un Data Lake pour centraliser les données marketing et ventes.",
+      "estimated_value": 2000000,
+      "tender_month": 5
+    },
+    "response": {
+      "response_id": "R20220001-01",
+      "tender_id": "T20220001",
+      "company": "Capgemini",
+      "proposed_value": 1950000,
+      "proposed_duration_months": 9,
+      "team": [
+        {"role": "Chef de projet", "name": "Isabelle Petit", "years_experience": 13},
+        {"role": "Data Engineer", "name": "Karim Bensaid", "years_experience": 9},
+        {"role": "Consultant BI", "name": "Sophie Laurent", "years_experience": 7}
+      ],
+      "methodology": "Agile, sprints de 4 semaines, ateliers de cadrage.",
+      "key_deliverables": [
+        "Architecture Data Lake",
+        "Intégration des sources de données",
+        "Tableaux de bord Power BI"
+      ],
+      "success_factors": [
+        "Expertise Big Data",
+        "Collaboration avec les équipes métiers",
+        "Livraison incrémentale"
+      ]
+    },
+    "project": {
+      "project_id": "P20220001",
+      "client": "L'Oréal",
+      "company": "Capgemini",
+      "industry": "Cosmétique",
+      "project_type": "Data Lake Implementation",
+      "start_date": "2022-07-01",
+      "end_date": "2023-03-31",
+      "duration_months": 9,
+      "team": [
+        {"role": "Chef de projet", "name": "Isabelle Petit"},
+        {"role": "Data Engineer", "name": "Karim Bensaid"},
+        {"role": "Consultant BI", "name": "Sophie Laurent"}
+      ],
+      "locations": ["Paris", "Clichy"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 1950000,
+      "profit": 390000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "Data Lake opérationnel",
+        "Tableaux de bord Power BI",
+        "Formation de 25 utilisateurs"
+      ],
+      "client_feedback": "Très bonne expertise technique, projet livré dans les temps."
+    }
+  },
+  {
+    "tender": {
+      "tender_id": "T20230001",
+      "tender_type": "Modernisation SI RH",
+      "issue_date": "2023-03-20",
+      "closing_date": "2023-04-15",
+      "status": "Awarded",
+      "client": "Air France",
+      "client_size": "Grand Compte",
+      "industry": "Transport",
+      "communication_channel": "Plateforme Achats",
+      "description": "Modernisation du système d'information RH, intégration SIRH cloud.",
+      "estimated_value": 2300000,
+      "tender_month": 3
+    },
+    "response": {
+      "response_id": "R20230001-01",
+      "tender_id": "T20230001",
+      "company": "Capgemini",
+      "proposed_value": 2250000,
+      "proposed_duration_months": 11,
+      "team": [
+        {"role": "Chef de projet", "name": "Nathalie Girard", "years_experience": 15},
+        {"role": "Consultant SIRH", "name": "Julien Mercier", "years_experience": 10},
+        {"role": "Développeur Cloud", "name": "Amina Traoré", "years_experience": 8}
+      ],
+      "methodology": "Agile, ateliers utilisateurs, déploiement progressif.",
+      "key_deliverables": [
+        "SIRH cloud opérationnel",
+        "Migration des données RH",
+        "Formation des gestionnaires RH"
+      ],
+      "success_factors": [
+        "Expérience SIRH",
+        "Gestion du changement",
+        "Support post-déploiement"
+      ]
+    },
+    "project": {
+      "project_id": "P20230001",
+      "client": "Air France",
+      "company": "Capgemini",
+      "industry": "Transport",
+      "project_type": "Modernisation SI RH",
+      "start_date": "2023-05-01",
+      "end_date": "2024-03-31",
+      "duration_months": 11,
+      "team": [
+        {"role": "Chef de projet", "name": "Nathalie Girard"},
+        {"role": "Consultant SIRH", "name": "Julien Mercier"},
+        {"role": "Développeur Cloud", "name": "Amina Traoré"}
+      ],
+      "locations": ["Paris", "Roissy"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 2250000,
+      "profit": 450000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "SIRH cloud opérationnel",
+        "Migration de 10 000 dossiers RH",
+        "Formation de 40 gestionnaires"
+      ],
+      "client_feedback": "Projet complexe mené avec succès, très bon accompagnement au changement."
+    }
+  },
+  {
+    "tender": {
+      "tender_id": "T20240001",
+      "tender_type": "Transformation Digitale",
+      "issue_date": "2024-01-10",
+      "closing_date": "2024-02-10",
+      "status": "Awarded",
+      "client": "Banque Populaire",
+      "client_size": "Grand Compte",
+      "industry": "Banque",
+      "communication_channel": "Plateforme Marchés Publics",
+      "description": "Transformation digitale du parcours client, intégration CRM omnicanal, automatisation des processus internes.",
+      "estimated_value": 2500000,
+      "tender_month": 1
+    },
+    "response": {
+      "response_id": "R20240001-01",
+      "tender_id": "T20240001",
+      "company": "Capgemini",
+      "proposed_value": 2350000,
+      "proposed_duration_months": 12,
+      "team": [
+        {"role": "Chef de projet", "name": "Sophie Martin", "years_experience": 12},
+        {"role": "Architecte CRM", "name": "Ali Benali", "years_experience": 10},
+        {"role": "Consultant Digital", "name": "Julie Robert", "years_experience": 7},
+        {"role": "Développeur Fullstack", "name": "Pierre Dubois", "years_experience": 5},
+        {"role": "Expert Data", "name": "Fatou Ndiaye", "years_experience": 8}
+      ],
+      "methodology": "Agile (Scrum), ateliers de co-conception, sprints de 3 semaines, déploiement progressif.",
+      "key_deliverables": [
+        "Audit des processus existants",
+        "Cahier des charges CRM",
+        "Déploiement CRM Salesforce",
+        "Automatisation des workflows internes",
+        "Formation des utilisateurs",
+        "Support post-déploiement (3 mois)"
+      ],
+      "success_factors": [
+        "Expérience sur des projets similaires dans la banque",
+        "Équipe pluridisciplinaire",
+        "Méthodologie agile éprouvée"
+      ]
+    },
+    "project": {
+      "project_id": "P20240001",
+      "client": "Banque Populaire",
+      "company": "Capgemini",
+      "industry": "Banque",
+      "project_type": "Transformation Digitale",
+      "start_date": "2024-03-01",
+      "end_date": "2025-02-28",
+      "duration_months": 12,
+      "team": [
+        {"role": "Chef de projet", "name": "Sophie Martin"},
+        {"role": "Architecte CRM", "name": "Ali Benali"},
+        {"role": "Consultant Digital", "name": "Julie Robert"},
+        {"role": "Développeur Fullstack", "name": "Pierre Dubois"},
+        {"role": "Expert Data", "name": "Fatou Ndiaye"}
+      ],
+      "locations": ["Paris", "Lyon"],
+      "status": "Completed",
+      "client_complaints": 0,
+      "revenue": 2350000,
+      "profit": 470000,
+      "profit_margin": 0.2,
+      "main_deliverables": [
+        "CRM Salesforce opérationnel",
+        "Automatisation de 8 processus internes",
+        "Formation de 120 utilisateurs",
+        "Tableaux de bord de suivi"
+      ],
+      "client_feedback": "Projet livré dans les temps, équipe très professionnelle, adoption rapide du CRM par les équipes métiers."
+    }
+  }
+] 
